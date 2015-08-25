@@ -1,0 +1,3989 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/lib/ionic/src/android-more-horizontal.svg
+SHA1-Digest: 2FOP8PMAiSSAptcRcbjiQ12047o=
+
+Name: assets/www/lib/ionic/src/ios-calculator.svg
+SHA1-Digest: HBobXIYRHDTLXboPLy8+dG6KGRc=
+
+Name: res/drawable-ldpi/button_qq.png
+SHA1-Digest: RpX9sDLBzUF+e7kgwaLgBvYQO9o=
+
+Name: res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 109j25E/mkMfIFzj68LxuaJIvds=
+
+Name: assets/www/lib/ionic/src/ios-arrow-up.svg
+SHA1-Digest: v/4QuPLEaqXWs7A8aeK1i65jcok=
+
+Name: assets/www/plugins/com.brodysoft.sqlitePlugin/www/SQLitePlugin.j
+ s
+SHA1-Digest: Jswg8Kpa9/fbACK9baT+a3DeJSQ=
+
+Name: res/drawable-xhdpi/ic_action_next_item.png
+SHA1-Digest: NR4QrPwnbh+SEbVIapOw4Qetu0E=
+
+Name: assets/www/lib/ionic/src/locked.svg
+SHA1-Digest: 6qlo8pMj+P6W8kDqmIMIsZOakkg=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QluevaTHgv86WnKHj0Dyu1BcXpk=
+
+Name: res/layout/auth.xml
+SHA1-Digest: N1+AI4yjVL7ZRP955v3opKKLZdI=
+
+Name: res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: dquOSJ71fK4IkbY8Wy8GuHCpbqs=
+
+Name: assets/www/lib/ionic/scss/_menu.scss
+SHA1-Digest: RTRsw/SlQAJWGXWanmJP33VQWMA=
+
+Name: assets/www/lib/ionic/src/ios-information-outline.svg
+SHA1-Digest: gKDOyEsczZ8TCQ/RKXpLb4HLeg4=
+
+Name: assets/www/lib/ionic/src/ios-flame.svg
+SHA1-Digest: 5EIUCs2y/767yBHGp39Wzsy+p2I=
+
+Name: assets/www/lib/ionic/src/key.svg
+SHA1-Digest: hGrFOY6abSFLNihkKNaL3UdaCQM=
+
+Name: assets/www/lib/ionic/src/android-time.svg
+SHA1-Digest: SBgNm9GpjzOe8FKUXmmr5L9hVFs=
+
+Name: assets/www/lib/ionic/src/ios-volume-high.svg
+SHA1-Digest: PHOIr5r/IzPly3nosE1ZTd79b/M=
+
+Name: res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: vkqm8TXp3yy/Qg5JatgD5k3KN+g=
+
+Name: assets/www/img/company/jr/zhongxin.jpg
+SHA1-Digest: 9ecVPq8ETSf5udHfjZyX+wPrE90=
+
+Name: assets/www/lib/ionic/src/plus-round.svg
+SHA1-Digest: cZGPPEEpWW1HFv6m0IL3/hO5rUc=
+
+Name: assets/button_green.9.png
+SHA1-Digest: 72N51zPrka+KUNiJfTjwx3sHXAI=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: 2ie/VnnJeIPKI0X/LLAatCEnI9Y=
+
+Name: assets/www/lib/ionic/src/ios-barcode.svg
+SHA1-Digest: 6oBKYk7u+3PG0EoESwuu04kRVcI=
+
+Name: assets/www/lib/ionic/src/knife.svg
+SHA1-Digest: aPirqZrLWxZnsT2vCWBWpi1/zvo=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: Yu5MDfn83XiHbTf+j/7Nb3HINOY=
+
+Name: assets/www/lib/ionic/src/ios-game-controller-b.svg
+SHA1-Digest: B7DCszs+JWQgjwSd2VjbHSBZUHQ=
+
+Name: assets/www/lib/ionic/scss/_backdrop.scss
+SHA1-Digest: x3q6sOF2wXjHdWyCHwuAcKGBOLQ=
+
+Name: assets/www/lib/ionic/src/share.svg
+SHA1-Digest: B18lPPK4WqKOqdEGQ7ss3vX6eU8=
+
+Name: assets/www/lib/ionic/src/android-people.svg
+SHA1-Digest: byG8Vs73NPQ/THXtfuWaAbzlzrA=
+
+Name: assets/www/lib/ionic/src/ios-pricetag-outline.svg
+SHA1-Digest: TF29GUP3Hmd0aLizvs6tXKFGqKo=
+
+Name: assets/www/lib/ionic/src/social-github-outline.svg
+SHA1-Digest: i9kSHn9x5Z5z8ceAibNSBit4hYk=
+
+Name: res/layout/auth_bg_3.xml
+SHA1-Digest: fQq+cwCLnpjURQ1E+CRlJxt2q5w=
+
+Name: assets/www/lib/ionic/src/arrow-graph-down-left.svg
+SHA1-Digest: Aslsr9rDaAfv5xRlUxCn6mK03AA=
+
+Name: assets/www/lib/ionic/src/android-folder.svg
+SHA1-Digest: 7YEdLzfkSzm3JrXKyANGvxKTpG4=
+
+Name: assets/www/img/loading.gif
+SHA1-Digest: yxmqRGAknn0D+KN0dwFlt4+AkKc=
+
+Name: assets/www/html/usr/education.html
+SHA1-Digest: eHAM/pXUnk3X2TpX22tn6uRIj68=
+
+Name: assets/www/lib/ionic/src/ios-alarm-outline.svg
+SHA1-Digest: x7ATXT3FEtPfY2w18pLcOy64Lno=
+
+Name: assets/www/lib/ionic/src/social-nodejs.svg
+SHA1-Digest: RVCyF0DyhSXmfyBR8eaB4YGcbD0=
+
+Name: assets/www/lib/ionic/src/load-a.svg
+SHA1-Digest: kFielLu5hQyj92dcZf06IfL2xmI=
+
+Name: assets/www/lib/ionic/src/log-in.svg
+SHA1-Digest: Y0/f6Xq/UjlRC7MHKbyjAe+uRWA=
+
+Name: assets/www/lib/ionic/src/social-css3.svg
+SHA1-Digest: cxEdTXIVaKruXW+HvO9O6fr46qA=
+
+Name: res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: Nnlnj9LnP6a0uoQ/btJldSeArLI=
+
+Name: assets/www/lib/ionic/scss/_items.scss
+SHA1-Digest: mEkmAw7V4FJYI1xFed8nqSAzrfk=
+
+Name: assets/drawable/weibosdk_dialog_bg.9.png
+SHA1-Digest: WXvo3k+6TIebf1AC+9PbdGgTOF4=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOp
+ tions.js
+SHA1-Digest: Cr3lqgiLIjR8WqM3ZrN3NslrY5U=
+
+Name: assets/www/lib/ionic/src/close.svg
+SHA1-Digest: qP2gSmfKUPRvs2CxnTj2KIhTv68=
+
+Name: res/drawable-ldpi/index2.jpg
+SHA1-Digest: v/oNv9iwuZL/snAxBv4WcXzf4Do=
+
+Name: assets/www/lib/ionic/src/android-favorite-outline.svg
+SHA1-Digest: 6UEvkDHWbfUKELlmaOPMsOlsajM=
+
+Name: assets/www/lib/ionic/src/arrow-right-c.svg
+SHA1-Digest: 6wSdGfgOjU+nnThpqEEgPqjRlFU=
+
+Name: assets/www/lib/ionic/src/ios-person.svg
+SHA1-Digest: x6p43MPk3HsqEwEsCo052JgQPBw=
+
+Name: assets/www/img/company/it/baidu.png
+SHA1-Digest: vM0t8lknYT5YjrhDNAswO6TwVEs=
+
+Name: assets/www/lib/ionic/src/android-pin.svg
+SHA1-Digest: VTdR/MtpWjMqZbw8VlCB5uEmJq4=
+
+Name: assets/www/lib/ionic/src/monitor.svg
+SHA1-Digest: X4klimYt4Lx4Pdkhpr/TVw+cfBc=
+
+Name: assets/www/lib/ionic/src/social-facebook.svg
+SHA1-Digest: RBdFwdCQTmGr30jskH/vAzlO4tw=
+
+Name: res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Txi4nHde0NvRVGH4WjelV6dyOKU=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: yphM5Y/WEUUXQ8C1+3k2wO7/IU8=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropleft.svg
+SHA1-Digest: bACrDhmAL0tJwjwcFHAXOtTQK9Q=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropdown.svg
+SHA1-Digest: sQ47F0pPNGiEte070IyBzXZ/2zI=
+
+Name: assets/www/lib/ionic/src/images.svg
+SHA1-Digest: ZA+bJ/TNO6M4ca/jLtBf+epInrc=
+
+Name: assets/www/img/company/jr/zhaohang.jpg
+SHA1-Digest: HaRZtgfOo32q+1OIViNAMZUGRHc=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: 77NOgGFNNwVKAqlFs1EwOgc2Q5A=
+
+Name: assets/www/lib/ionic/src/ios-at-outline.svg
+SHA1-Digest: oP7lSpIYyrxm9fUs//clFhjYt3k=
+
+Name: res/drawable-hdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: CryqHoFcxjamvNzipiGDoWeVOGw=
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: e4+xS2IHT21cqoB/yQU6OyS1b7o=
+
+Name: assets/www/lib/ionic/src/android-person-add.svg
+SHA1-Digest: DKkD5GRmZWWhGmME5JsgNCOJCek=
+
+Name: assets/www/lib/ionic/src/ios-play-outline.svg
+SHA1-Digest: Enn2DrdbEpstovrXLnlErVcoXos=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/CameraConstants
+ .js
+SHA1-Digest: MxqeAP/j9qYxLLMg9Bw3TjonS0E=
+
+Name: assets/www/lib/ionic/src/ios-cart-outline.svg
+SHA1-Digest: QdTg9Q04YROcV90JU0s4P8yP5os=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-variables.scss
+SHA1-Digest: tYj5pySOyUnmuHaShVxKRQ8z/ow=
+
+Name: assets/www/lib/ionic/src/ios-alarm.svg
+SHA1-Digest: MJYJbKQGV+62mmKwPL86P1A/FtY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryReader.j
+ s
+SHA1-Digest: bkiWOzW7lYdtV1vP9fHtqETS1aY=
+
+Name: res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: S3+w9zQNRkuFSgwJ8JMjU+ml6To=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: ZnLctb3kWNHxKXzH5Rk4ySSGhzE=
+
+Name: assets/www/lib/ionic/src/fork-repo.svg
+SHA1-Digest: NxE/WR3K0glIa7z6VLhp86DGx8A=
+
+Name: assets/www/img/company/jr/guangfa.png
+SHA1-Digest: DPczQJrqImvnBceiRQTz1Qrrji0=
+
+Name: assets/www/lib/ionic/src/chatbubble.svg
+SHA1-Digest: O8QPJKyhffVz+Vj4PoNFE87mbts=
+
+Name: res/drawable-hdpi/ic_action_next_item.png
+SHA1-Digest: qB37IvvoMeEjuZF5lSzNL1atssw=
+
+Name: assets/www/lib/ionic/src/ios-football.svg
+SHA1-Digest: ilyehLnYCFq+FyOXKcxX/maDWp4=
+
+Name: assets/www/lib/ionic/js/ionic-angular.js
+SHA1-Digest: bW/rgMAWsKNilfwEeyIkkP0edNQ=
+
+Name: assets/www/lib/ionic/src/ios-pause-outline.svg
+SHA1-Digest: LMDQhNAVm3ZVs/TYz1tDblwJMLI=
+
+Name: assets/www/lib/ionic/src/ios-musical-notes.svg
+SHA1-Digest: a7wuJHackcZw82QBO8P0dWSVGlo=
+
+Name: res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4oU1S0T6qbsEVVg1vrykxhO0l2Y=
+
+Name: res/drawable-xhdpi/ic_action_previous_item.png
+SHA1-Digest: 0dsU8dFcc2mtwhzv/EDl6N0yNE0=
+
+Name: assets/www/lib/ionic/src/ios-lightbulb-outline.svg
+SHA1-Digest: PoEpIBMyx/OXVYIlwXuO9rezTM8=
+
+Name: assets/www/lib/ionic/src/ios-star-outline.svg
+SHA1-Digest: jyH7RFk95x7rMbYrx257LeymIco=
+
+Name: assets/www/lib/ionic/src/ios-time.svg
+SHA1-Digest: B1NEhhL0cUIGNPZ1sotketQg2X4=
+
+Name: assets/www/lib/ionic/src/ios-chatboxes.svg
+SHA1-Digest: TIYC0H/fV82I0Z3msEadh7lwBuY=
+
+Name: res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: LZMqwcX/oCryOgxvEnSkOdDEr2M=
+
+Name: assets/www/lib/ionic/src/battery-charging.svg
+SHA1-Digest: XSEmZwbZO9hrNhLeipq5mAYeubM=
+
+Name: assets/www/lib/ionic/src/ios-pie-outline.svg
+SHA1-Digest: U42TyFH9TFnkfBa4xrpUcYrFfVQ=
+
+Name: res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: liZV4APmDMgcVcHPGXha24HE/vI=
+
+Name: assets/www/lib/ionic/src/social-usd-outline.svg
+SHA1-Digest: D7BzUdHpuIJ4Ll4soWlkdb+Hjlc=
+
+Name: assets/www/lib/ionic/src/ios-compose-outline.svg
+SHA1-Digest: CrdZd7F3b35YQibznxKoVvCLOns=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-animation.scss
+SHA1-Digest: keugA/Wcmffs56hqjABUCEGqLxQ=
+
+Name: assets/www/lib/ionic/src/ios-checkmark.svg
+SHA1-Digest: VrPIkl/Q9qvNiuPLUGftRId45Ag=
+
+Name: assets/www/lib/ionic/src/social-markdown.svg
+SHA1-Digest: XWPUt/lEcjMVxK1Q96PT+Inqnoc=
+
+Name: assets/www/lib/ionic/src/ios-arrow-thin-up.svg
+SHA1-Digest: 1rRT13WVNKZJJihY8cPcdioRmVI=
+
+Name: assets/www/lib/ionic/src/ios-chatbubble-outline.svg
+SHA1-Digest: 1YidXctKRjEbQPF+lwG3QzteoDM=
+
+Name: assets/www/lib/ionic/src/ios-rainy-outline.svg
+SHA1-Digest: 6VVLNlCOHn96YpmgAS3WPOGvRgg=
+
+Name: res/drawable-hdpi/button_wx.png
+SHA1-Digest: v5AhbDvxt55eQwSVUxW3h95UKrc=
+
+Name: assets/www/lib/ionic/src/closed-captioning.svg
+SHA1-Digest: T5a/r6n6BBL2NufHs2fx/ibpcAM=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_button_blue_normal.9.png
+SHA1-Digest: plzlqLb7elFLaBIIHG8jVWFUnfU=
+
+Name: assets/www/lib/ionic/src/eye-disabled.svg
+SHA1-Digest: jd8d0AambqcoHL4JjogGJXqbFwg=
+
+Name: assets/www/lib/ionic/src/ios-more-outline.svg
+SHA1-Digest: r5DX2a4DTsWpryAq9YAJmyl51AU=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_button_blue_pressed.9.pn
+ g
+SHA1-Digest: +tjTExmZ1lk9Ox0aZm5rNcUPoFY=
+
+Name: assets/www/lib/ionic/src/android-bookmark.svg
+SHA1-Digest: 06ICqsYhS0BHDaGESQu3pPS8Qlk=
+
+Name: assets/www/html/usr/privacy.html
+SHA1-Digest: xL5/B2AaZAErH8eAaFZ4NL+FrMY=
+
+Name: res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: Ctu9p40E4P5fvzBufyBMmPaVWbA=
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: wDU+0Y5QYlzXbW9IosVe+H6pJVc=
+
+Name: assets/www/lib/ionic/src/arrow-shrink.svg
+SHA1-Digest: 7pTrCKFFZ+lIAxOQyvH5Kebplc8=
+
+Name: assets/www/lib/ionic/src/bookmark.svg
+SHA1-Digest: 1axdyhH83tMZMhbnPfZGzuP9KEY=
+
+Name: assets/www/lib/ionic/src/android-hand.svg
+SHA1-Digest: Uvl8KQh3FxQofTqFwcio5StuCsY=
+
+Name: res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: F15Y7TDgoQ90hOj/LqmJmzvUv5I=
+
+Name: assets/www/lib/ionic/scss/_mixins.scss
+SHA1-Digest: Ez+cj+z4Ppful5gODJylMns4+/Q=
+
+Name: assets/www/lib/ionic/src/ios-help-outline.svg
+SHA1-Digest: 7kpDQr2yZJyNaivJUjs+V5VEAzQ=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: HSo66NSY39XTXO777pXaLU1UHYM=
+
+Name: assets/www/lib/ionic/src/android-star-outline.svg
+SHA1-Digest: RhLkOtPSlWyzFydFjuR6XGvxSzE=
+
+Name: res/layout/auth_bg_2.xml
+SHA1-Digest: LUTFgdFuDiHxpovSefYmVuHB1pE=
+
+Name: assets/www/lib/ionic/src/edit.svg
+SHA1-Digest: Z4wAOchUY62ca6HdktZ/gXyoQho=
+
+Name: assets/www/lib/ionic/version.json
+SHA1-Digest: VelG9QUxN8hnc0XaWILQgMa2/VA=
+
+Name: res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMkP0OZqp3er4oTF2Gl+RImzkzI=
+
+Name: assets/www/lib/ionic/src/bug.svg
+SHA1-Digest: jJtpVIVP2GUsO5M8Axq06PGwg14=
+
+Name: assets/www/lib/ionic/src/ios-close-empty.svg
+SHA1-Digest: m1cFcdMZtH9teqLp9R1heJg9y04=
+
+Name: assets/www/lib/ionic/src/social-google.svg
+SHA1-Digest: VfedSPSbq91QWK3JDuL9uhMclg0=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_button_blue_pressed.9.p
+ ng
+SHA1-Digest: q04LLz2eNuM6e8D8RaRhm1e3WbQ=
+
+Name: assets/www/img/icomoon.woff
+SHA1-Digest: 87DAM2bvsC96ixTPYckHp4ZWdPw=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_with_text.png
+SHA1-Digest: yXLA8LO/k1mUUcROkrsib75F/Uw=
+
+Name: assets/www/lib/ionic/scss/_button.scss
+SHA1-Digest: 66278hYdZ+cMlwYws5bKal4mOHo=
+
+Name: assets/www/lib/ionic/src/ios-snowy.svg
+SHA1-Digest: ilA+WfP8yfZNcSWYjsUW7T2vyto=
+
+Name: assets/www/lib/ionic/src/social-hackernews-outline.svg
+SHA1-Digest: rGCbF/bMSfWD/yoTKD28xZewfOE=
+
+Name: res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: ko4NIjKS8Vj9JzNuzD9DVsqdadE=
+
+Name: assets/www/lib/ionic/scss/_toggle.scss
+SHA1-Digest: AUr+BH3RJsbvu2aAjEHhyywXsy8=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: assets/www/lib/ionic/scss/_form.scss
+SHA1-Digest: Gx0PQAJi9tXdvFI1XTUDRzMnNfg=
+
+Name: assets/www/img/icomoon.svg
+SHA1-Digest: Sou0xP81RcW/qD93AizaVCe4oyg=
+
+Name: assets/www/lib/ionic/src/bowtie.svg
+SHA1-Digest: RVSF7BXgUCCd3Gpx7T7T7E4zniw=
+
+Name: assets/www/lib/ionic/src/plane.svg
+SHA1-Digest: 9ODE/0XlANWnMD9lLqADf07vunA=
+
+Name: res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: jrojsYDbSX5kvbdgdtYdtBpO0EM=
+
+Name: assets/www/lib/ionic/src/ios-photos-outline.svg
+SHA1-Digest: XklJYs1SGPO/McZYcJTKTOWhfbk=
+
+Name: res/drawable-mdpi/button_linkedin.png
+SHA1-Digest: GjqWiEkI0W1UtGdS6n+C/d/AlRI=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ normal.png
+SHA1-Digest: LIX3apwE3zPrRQM98vusb6MX/7A=
+
+Name: assets/www/lib/ionic/src/arrow-right-b.svg
+SHA1-Digest: j8Fx5qRhaYX9GsXZkUaCoJktX2g=
+
+Name: assets/www/lib/ionic/src/pricetags.svg
+SHA1-Digest: zwJuPWoUrUB6pGFJJkd0QaGGGDI=
+
+Name: res/drawable-ldpi/index1.jpg
+SHA1-Digest: buZ9m1Tiir5rZqup7uK9lCytKMU=
+
+Name: res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: IwOJ3lgBdd4FLfsZn3yTIZAXWGA=
+
+Name: assets/www/lib/ionic/src/ios-cloudy.svg
+SHA1-Digest: 41NRmJWowrcFUloJS/srw92E4U0=
+
+Name: assets/www/lib/ionic/src/aperture.svg
+SHA1-Digest: ATgdFRdEHXPsNijB61uZfPEEXNU=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: assets/www/lib/ionic/src/code-working.svg
+SHA1-Digest: mBUAzgzofJE//znWxZ7sQ9+mQzo=
+
+Name: assets/www/lib/ionic/src/email.svg
+SHA1-Digest: gE2peN+kOntRwY+xHH8AStUYarY=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_pressed.png
+SHA1-Digest: nVXkZ3a70yfE4UIy7hwroFbqgDg=
+
+Name: assets/www/html/say/post.html
+SHA1-Digest: BglAiyIUFhdSRjVFgrP30eeH3MI=
+
+Name: assets/www/lib/ionic/src/social-tux.svg
+SHA1-Digest: kUN4Q/TfPZMn1kIYc3n+iZh11Ws=
+
+Name: assets/www/lib/ionic/css/ionicons.min.css
+SHA1-Digest: 8EWTAOORVd96pelLO9uMhZT0mmA=
+
+Name: assets/www/lib/ionic/js/ionic-angular.min.js
+SHA1-Digest: GPCMX+gWdNprnepXzc1ZDjCx/Tk=
+
+Name: assets/www/lib/ionic/src/social-android-outline.svg
+SHA1-Digest: DkrDWXtmZE4zVyPaM0pgc5hQEBs=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_with_text.png
+SHA1-Digest: EKod5ubDRc8U/ioAn38cgKOcc8M=
+
+Name: res/drawable-hdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: f8JhaicwBY6ZJYBhVE2XjsXiHQM=
+
+Name: assets/www/lib/ionic/scss/_variables.scss
+SHA1-Digest: u6Q0NBRVGSPMy47cFSGorhmNnKo=
+
+Name: assets/www/lib/ionic/src/home.svg
+SHA1-Digest: OmUM7wSRjPlhgA/0QRWZVamM3Ec=
+
+Name: assets/www/plugins/org.apache.cordova.network-information/www/ne
+ twork.js
+SHA1-Digest: 1T10WcsQcNQ99v2Xf4qqtz9rkUM=
+
+Name: res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: OF/frPBW/dOOofuutAzbBxrzNgY=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: IVjsZMMVr/ce0JFlSQDbVTn2lZ8=
+
+Name: assets/www/lib/ionic/src/ios-clock.svg
+SHA1-Digest: ppAeruymj+Muj3fHIChnkZY6PE4=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/requestFileSystem
+ .js
+SHA1-Digest: G7jj5+PTEBsvuWpyNRiIARjaJbk=
+
+Name: assets/www/lib/ionic/src/ios-close-outline.svg
+SHA1-Digest: rb024oomXP+5M+Glg8rIDVSCsSE=
+
+Name: assets/www/lib/ionic/src/social-css3-outline.svg
+SHA1-Digest: sGmIz3IKt5klz7irm5dw61Y78gI=
+
+Name: assets/www/lib/ionic/src/ios-cloud-outline.svg
+SHA1-Digest: 8ldNM6GxzY78DFrimgld4U32tck=
+
+Name: assets/www/html/job/main.html
+SHA1-Digest: 1L0VG3G41ep2UXbuP6MSz9mItYE=
+
+Name: assets/www/lib/ionic/src/social-youtube-outline.svg
+SHA1-Digest: 0Uy3XkZcN/XQ00bGOtCrsz2yeNA=
+
+Name: assets/www/lib/ionic/src/arrow-graph-up-left.svg
+SHA1-Digest: kwxc/EFrbfsQh0SrgIhcip5wqKI=
+
+Name: assets/www/lib/ionic/src/android-sad.svg
+SHA1-Digest: sglbby1E+l20uTJLUc1guGwaTMQ=
+
+Name: assets/www/lib/ionic/src/xbox.svg
+SHA1-Digest: 7Zs+49NenY4K7jIx7I5ulecslww=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.min.js
+SHA1-Digest: hThWRghyfGtvQ5+Yf5mFPVX7N44=
+
+Name: assets/www/lib/ionic/src/ios-chatbubble.svg
+SHA1-Digest: Y6YsYXQBb1YNAxGC/6Pkb0OfsdY=
+
+Name: assets/www/lib/ionic/src/android-bus.svg
+SHA1-Digest: sX7O8uxXvY5iK3kJOvBc4JXJ6Qk=
+
+Name: res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: m5ZFB8xM9wLJXlv+RqbEVelyZ9M=
+
+Name: assets/www/html/usr/settings.html
+SHA1-Digest: 5H+t3Q4YUt6nsbMNfh9UGbZINX4=
+
+Name: assets/www/js/app.js
+SHA1-Digest: +xRkPmwrcIIIkr9bFUPoT2tRHAA=
+
+Name: assets/www/lib/ionic/src/android-send.svg
+SHA1-Digest: Z9cmhqAsgQxuz/bTD91XuQahTcM=
+
+Name: assets/www/lib/ionic/src/ios-fastforward-outline.svg
+SHA1-Digest: ad04c7WcmAtcwRmw8EPHf4VK6js=
+
+Name: assets/www/img/company/fdc/wanda.png
+SHA1-Digest: bk1e0rU6Xi7EWMawqIjnKEDTtGc=
+
+Name: assets/www/lib/ionic/js/angular/angular-sanitize.js
+SHA1-Digest: vcoH0fcTMbrxb0liYrxHaZQtmo8=
+
+Name: res/layout/auth_bg_1.xml
+SHA1-Digest: v7Iaf0l+MfoLxS85Libn3ZT3PYA=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_normal.png
+SHA1-Digest: u8wjgFNortlLIiWGsgtj9q8vem8=
+
+Name: res/drawable-xxhdpi/ic_com_sina_weibo_sdk_login_button_with_fram
+ e_logo_normal.png
+SHA1-Digest: 1SCDzAf259ESSfBHH7G6MqIC3ZA=
+
+Name: res/drawable-mdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: j6xPGq0FwoHnZWmlDU7Vc2Y7zMk=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHa
+ ndle.js
+SHA1-Digest: MTITkfOA1eDDAK7JEjT8FaA/0fE=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: fkqqgVzOApCs9usUL02tXlZymOQ=
+
+Name: assets/www/lib/ionic/src/ios-film.svg
+SHA1-Digest: BgixdISVAEmCcypXpiB4WLwkzyE=
+
+Name: res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: ogvwRfy+v9V8rhVSpnDWa5xYli4=
+
+Name: res/drawable/com_sina_weibo_sdk_login_button_with_account_text.x
+ ml
+SHA1-Digest: H7v9DZDS9gg+zze8ZwR8YaqIqSU=
+
+Name: assets/www/lib/ionic/src/chevron-down.svg
+SHA1-Digest: fw1HmzdqEjiVxM8AtuOwJKRL6o0=
+
+Name: res/drawable-xxhdpi/ic_com_sina_weibo_sdk_login_button_with_fram
+ e_logo_focused.png
+SHA1-Digest: fcK0EcXsP9nGTePBlmyqRp/ulY4=
+
+Name: assets/www/lib/ionic/src/backspace.svg
+SHA1-Digest: YIu8SrOi7fNlI6qL6SwM6/3HFn0=
+
+Name: assets/www/lib/ionic/src/ios-star.svg
+SHA1-Digest: sCLApW0sIpVQPxzlRmKTnESsU6I=
+
+Name: assets/www/lib/ionic/src/tshirt-outline.svg
+SHA1-Digest: UfMLGWsXaIfIeZnsbXaBGTG94KQ=
+
+Name: assets/www/img/tab1.png
+SHA1-Digest: TA9bOlginOENOjGvNPuU6aSg16E=
+
+Name: assets/www/lib/ionic/src/funnel.svg
+SHA1-Digest: FXpnQQPMBqpDUlwWMhYev/H0rN8=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: in/uM6gaoddhlniDyLN3qnCoO90=
+
+Name: assets/www/lib/ionic/src/social-instagram.svg
+SHA1-Digest: PJQePJs3L2vFEaKctLoCilgBd7I=
+
+Name: assets/www/lib/ionic/src/man.svg
+SHA1-Digest: 4riTyt9v4/rfQ5O4syGFOP+OurI=
+
+Name: assets/www/lib/ionic/scss/ionicons/ionicons.scss
+SHA1-Digest: cUoeFB0FgbkqekbXQAjpO2yZ2Ck=
+
+Name: assets/www/lib/ionic/src/medkit.svg
+SHA1-Digest: QCwQqpBCCTeE3cqj6qKEQC61aVE=
+
+Name: assets/www/lib/ionic/src/merge.svg
+SHA1-Digest: Sq5fZiON/1MNP7PpkSFQsH9CkSc=
+
+Name: res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: +XwNOsyv2DWN30GlWVSISZnhYYI=
+
+Name: res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: zZurrSYAwBsyNtHv58yh4NOk06U=
+
+Name: assets/www/lib/ionic/src/ios-color-wand.svg
+SHA1-Digest: qu6nf1HYzhijFbNtvZyIJGZB12c=
+
+Name: assets/www/lib/ionic/src/ios-pie.svg
+SHA1-Digest: MKIs1SzuJgdekSmW+P2iRgaesXc=
+
+Name: assets/www/lib/ionic/src/android-contact.svg
+SHA1-Digest: hWeftZS0qNaoW0GsiPGOz5mPqbA=
+
+Name: res/drawable-xxhdpi/abc_list_focused_holo.9.png
+SHA1-Digest: 4uLhBY8QL7cnslM75UPD6UzDEqE=
+
+Name: assets/www/img/company/fdc/hengda.png
+SHA1-Digest: rr/pChsb+RzwrMcOVOGkLeE2mRk=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_button_grey_normal.9.png
+SHA1-Digest: kZ9314YgSZHYcEuP+vXCuujxd48=
+
+Name: assets/www/img/tab4.png
+SHA1-Digest: uidZ6IRv+wlnBh5JBccvt5OdKck=
+
+Name: assets/www/lib/ionic/src/social-whatsapp.svg
+SHA1-Digest: Drm5jhRslfIrfEPlscSuROH0rn0=
+
+Name: assets/_where-is-www.txt
+SHA1-Digest: avAF2z5NXxA7dhGqngRyQ0ETAG0=
+
+Name: res/drawable-hdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: RL/CWWvydaYF1UXpOTFO2o2Se5s=
+
+Name: res/drawable-hdpi/index1.jpg
+SHA1-Digest: buZ9m1Tiir5rZqup7uK9lCytKMU=
+
+Name: assets/www/lib/ionic/src/code.svg
+SHA1-Digest: 54BOkg9FPeP/askK9LT+9r4Z7+Q=
+
+Name: assets/www/lib/ionic/src/load-c.svg
+SHA1-Digest: FijJbC5MEABBow3ii1vJnlz/hok=
+
+Name: res/drawable-ldpi/index4.jpg
+SHA1-Digest: GKJ4fjXF9ae3B6GOsAxa6PYMdkw=
+
+Name: res/drawable/button_wx.png
+SHA1-Digest: v5AhbDvxt55eQwSVUxW3h95UKrc=
+
+Name: res/drawable-mdpi/index2.jpg
+SHA1-Digest: v/oNv9iwuZL/snAxBv4WcXzf4Do=
+
+Name: res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pxni+y0etDEj2lBgg/0qLkhIOdk=
+
+Name: assets/www/lib/ionic/src/ios-musical-note.svg
+SHA1-Digest: 9iHRHsOm5s6WFhAWqWKvqRVt4LM=
+
+Name: assets/www/lib/ionic/src/ios-sunny.svg
+SHA1-Digest: t7NlYmIjES1/IBo3UiCx/38Za0Y=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_pressed.png
+SHA1-Digest: AEbFLaUjkipE5JcMwKtZlP8g6dc=
+
+Name: assets/www/lib/ionic/src/ios-heart-outline.svg
+SHA1-Digest: cbEQA6IdKCD4hpi2F41WtZYmRsY=
+
+Name: assets/www/lib/ionic/src/ios-videocam-outline.svg
+SHA1-Digest: 4FGyQFjHjogWB8e1QIOWWkQfRzw=
+
+Name: res/drawable-xxhdpi/ic_action_previous_item.png
+SHA1-Digest: O6f3A1T4xOSQqVUldAFPWs1Ax2I=
+
+Name: assets/www/lib/ionic/src/android-sync.svg
+SHA1-Digest: JGyzPbz3RUwnphfD+etKCMrYOhw=
+
+Name: assets/www/lib/ionic/src/calculator.svg
+SHA1-Digest: qpB+70B1Nn1p8kbfMwnMp5YVoII=
+
+Name: assets/www/lib/ionic/src/clipboard.svg
+SHA1-Digest: Q0gkHV1OXSJFCJ8QxJOLvKlun9Y=
+
+Name: assets/www/lib/ionic/src/ios-bell-outline.svg
+SHA1-Digest: PQhJieFPNEiGmFKm9EHbZk/VXIM=
+
+Name: assets/www/lib/ionic/src/connection-bars.svg
+SHA1-Digest: //0tXuATdnyfz05Vg9DV2NcEI5U=
+
+Name: assets/www/lib/ionic/src/umbrella.svg
+SHA1-Digest: LxM+2lCkPw6vSybT2UJRSsuOPK4=
+
+Name: assets/www/lib/ionic/src/android-boat.svg
+SHA1-Digest: RQ+58L2sI18qHL7pibJ9QPAF+Vw=
+
+Name: assets/www/img/company/jr/guotaijunan.png
+SHA1-Digest: o1+/dEq15jFJK5wSU+gOGu7R+C0=
+
+Name: res/drawable-mdpi/abc_list_focused_holo.9.png
+SHA1-Digest: 8R46vZNVIaSbUPpkOYlv1uISCHE=
+
+Name: assets/www/lib/ionic/src/ios-trash-outline.svg
+SHA1-Digest: F8sh56iUPelo3GgsbW1r3dE+DHo=
+
+Name: res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: g2USB8po5f17zq2bzhZdtnxSmOg=
+
+Name: assets/www/plugins/org.apache.cordova.device/www/device.js
+SHA1-Digest: 0VB068Ut1MbjDx+uAiPrdNduO1Y=
+
+Name: assets/www/lib/ionic/src/ios-loop-strong.svg
+SHA1-Digest: Ido0b682wPp9/vn+HC7y4QETH3U=
+
+Name: res/drawable-xhdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: WZns+UkgonnDfkd08aSrIoiRCYk=
+
+Name: res/drawable-mdpi/ic_action_next_item.png
+SHA1-Digest: I11kR9J8D1ym6/6IDHX2g/nVzNc=
+
+Name: assets/drawable-hdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: 7v+7iEkPEQGf3r3HtAH6uZ76aRQ=
+
+Name: res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: gzqpohXWJM2gFnRT3iBL2AD2vm0=
+
+Name: assets/www/lib/ionic/src/ios-eye.svg
+SHA1-Digest: /e+duhPJqI18DWZMjCjro4Hh+Vg=
+
+Name: assets/drawable-xxhdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: yHpKqBvMV3I2kZglNBXmZEpRqf0=
+
+Name: assets/www/lib/ionic/src/male.svg
+SHA1-Digest: bDyuQlXzRWDwRjjlWlC5eypwUZA=
+
+Name: res/layout-v11/abc_screen_content_include.xml
+SHA1-Digest: OfdfiBNEjP4ZrgOIvtBNmWFcEpo=
+
+Name: assets/www/lib/ionic/src/android-cloud-done.svg
+SHA1-Digest: /yh53r9WTeX9DOHqafhQe/LyPDo=
+
+Name: assets/www/lib/ionic/src/ios-box-outline.svg
+SHA1-Digest: sNmkjh5atazFDTuvEd0ktFTcDzs=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 109j25E/mkMfIFzj68LxuaJIvds=
+
+Name: assets/www/lib/ionic/scss/_badge.scss
+SHA1-Digest: tk3cRbGA199kL3fU80ZIZSnrogc=
+
+Name: res/drawable/com_sina_weibo_sdk_login_button_with_frame_logo.xml
+SHA1-Digest: Gdz5qy5A9KA70EqdN3FU5F+CrBs=
+
+Name: res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: vbWqIHZogWYg5NGOzMVEVEwIH7s=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropup-circle.svg
+SHA1-Digest: BgEAlE+708VDlyScxlbcFj6iqqo=
+
+Name: assets/www/lib/ionic/src/ios-analytics.svg
+SHA1-Digest: t0nli4i1cjY8+Z7gPSw1nBSWoPM=
+
+Name: assets/www/lib/ionic/src/ios-cloudy-outline.svg
+SHA1-Digest: DYyqfFTZmXHRY/WwVVMJ6i1/J3s=
+
+Name: assets/www/lib/ionic/src/ios-rainy.svg
+SHA1-Digest: z3Yr1wM9XkeV7F6WhgFNp9VcDfQ=
+
+Name: res/drawable-mdpi/ic_action_remove.png
+SHA1-Digest: nKigmEPh2ytFH29tSmzdel83ejA=
+
+Name: assets/www/lib/ionic/src/ios-medical.svg
+SHA1-Digest: HWFynj9jM1wGw2VVVToR0RrJ/Mw=
+
+Name: assets/www/lib/ionic/src/waterdrop.svg
+SHA1-Digest: QR7ggIkmMj7dfMrnYTVDLrir6JI=
+
+Name: assets/www/lib/ionic/src/arrow-expand.svg
+SHA1-Digest: Hmh/6lixzFn4jp3tDkqrcU9noRk=
+
+Name: assets/www/lib/ionic/src/ios-paw-outline.svg
+SHA1-Digest: OCQkk1SypQbUGRM7ecFalgEHxIY=
+
+Name: assets/www/plugins/org.apache.cordova.statusbar/www/statusbar.js
+SHA1-Digest: 2iL47D8mS9swYvIc20tFsASiYnU=
+
+Name: res/drawable-mdpi/index4.jpg
+SHA1-Digest: GKJ4fjXF9ae3B6GOsAxa6PYMdkw=
+
+Name: assets/www/lib/ionic/src/ios-search-strong.svg
+SHA1-Digest: ZKN/+9LKMGV3DcpgOANbj0KfdpU=
+
+Name: assets/www/lib/ionic/src/compose.svg
+SHA1-Digest: QUa7lnuGeFh4k+yI+gsh5TBJ0uY=
+
+Name: assets/www/lib/ionic/src/ios-browsers-outline.svg
+SHA1-Digest: srvesoI/jES5i+foI+Sz7OYBbQc=
+
+Name: assets/www/lib/ionic/src/at.svg
+SHA1-Digest: VwlU2hHGve4yhApipLP1Gc+J+4E=
+
+Name: res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: P/kmPSRL8PV848y4DhX+Mo6kQm4=
+
+Name: res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 7I7bReLRQHlqabBYSFGTaGGtVk4=
+
+Name: res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: T5slVQklwytRhhFRjSw66UZR3vQ=
+
+Name: assets/buttonPost.png
+SHA1-Digest: jAZacXy5ocEht6Mv0CIw6+BDN/w=
+
+Name: assets/www/lib/ionic/src/ios-film-outline.svg
+SHA1-Digest: v/IO9EYyWGI71NEcmJFzd/44JVw=
+
+Name: assets/www/lib/ionic/src/ios-timer-outline.svg
+SHA1-Digest: b32U5BlFcQ8XTqdMkOJh7oVZHlQ=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: o64Tt4BnkkqEYiKYEh/Pj0JBBWU=
+
+Name: assets/www/lib/ionic/src/android-subway.svg
+SHA1-Digest: x5mOzF2EYGh/u2ngNzj9lB+DIDM=
+
+Name: assets/www/lib/ionic/src/android-volume-up.svg
+SHA1-Digest: HACO1Oc/K5wckVx56SBL+GzmlCQ=
+
+Name: assets/www/lib/ionic/src/ios-partlysunny-outline.svg
+SHA1-Digest: 8rT2hTQLRFhZhh5FZ4sbg08pWPw=
+
+Name: res/drawable/icon.png
+SHA1-Digest: ZKZQoX50RB5L5IVHktjqEU/tzN4=
+
+Name: res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: uiys8hJTJ258/cinC6+niOV+cGI=
+
+Name: assets/www/lib/ionic/src/briefcase.svg
+SHA1-Digest: v9zL74wM3q/VFu4WcM8bPvSkTWE=
+
+Name: res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: fpThxh5dB2oWG7w3WPZkwX8ipI8=
+
+Name: assets/www/html/job/find.html
+SHA1-Digest: uBJaWAf1yFS4w/T10cBEeLKby1Y=
+
+Name: res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: IRY9orSUNBiHDRmCdZDLwsHlvFM=
+
+Name: assets/www/html/reg/2.html
+SHA1-Digest: 3KQrf+yB+kHsOji+DOU+rvxtWSQ=
+
+Name: assets/www/lib/ionic/src/ios-plus-empty.svg
+SHA1-Digest: GP6ceRoKJr7RiMWG+Kukirnkk0A=
+
+Name: assets/www/lib/ionic/src/load-b.svg
+SHA1-Digest: zF4Le1g8op3vhaaGx9PZD21nyoI=
+
+Name: res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: W6K3P94iAz0CiSFCp6GiJlxogqs=
+
+Name: assets/www/lib/ionic/src/ios-people-outline.svg
+SHA1-Digest: eE3NTWSbvVzV54ASQI3LaqVRrVo=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/fileSystems.js
+SHA1-Digest: DOxH8OmgoSg/tNMIH4rRdC6LOVk=
+
+Name: assets/www/lib/ionic/src/mouse.svg
+SHA1-Digest: /Fd/nf2eOsiVx3TZxr1y+yT8r9I=
+
+Name: assets/www/lib/ionic/src/mic-a.svg
+SHA1-Digest: GBTPZhY1CE7O5wZBRi9qGWDIyxw=
+
+Name: assets/www/img/tab2.png
+SHA1-Digest: ROiGQWrB4HRhkNw0D96VU2au788=
+
+Name: assets/www/lib/ionic/src/social-googleplus-outline.svg
+SHA1-Digest: XZEAa7JExLQKnSxIue1NmXpc5V4=
+
+Name: assets/www/lib/ionic/src/social-rss.svg
+SHA1-Digest: dgH+vA5mjgPWs9dvOj+ruzOPyys=
+
+Name: res/drawable-mdpi/ic_action_previous_item.png
+SHA1-Digest: hQHJ4uWUXYR/W5HKEfkoL0otUKY=
+
+Name: assets/www/lib/ionic/src/android-delete.svg
+SHA1-Digest: lXPsECfz77jq9ivsxZVGAHKzWTY=
+
+Name: assets/www/lib/ionic/src/paper-airplane.svg
+SHA1-Digest: ufgdNjqovDQBkTI//IKp+RpZK9U=
+
+Name: assets/www/img/tab3.png
+SHA1-Digest: f+Hx4zCA3yoX79oIni6ZptV81EA=
+
+Name: assets/www/lib/ionic/src/compass.svg
+SHA1-Digest: LlGuvsIbwaEkiBwFo+E2wNPZ6Qs=
+
+Name: res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: yP2hhhdWfqPQ6VTBFpcZM+5I8sg=
+
+Name: assets/jpush_close.png
+SHA1-Digest: NyRkNsuO3i98SKVC4jLwRjr/Kns=
+
+Name: assets/www/lib/ionic/src/ios-reload.svg
+SHA1-Digest: b6qzeNuWQynCwWkyiz47OYVwYJM=
+
+Name: assets/www/lib/ionic/src/cash.svg
+SHA1-Digest: DBlRRGXiAMgy4ViD4e1Dbe4uP0w=
+
+Name: assets/www/lib/ionic/src/android-compass.svg
+SHA1-Digest: /uj5wwSG6fw/zsqB8b9iVjShrqY=
+
+Name: assets/www/lib/ionic/src/social-github.svg
+SHA1-Digest: eJXqM/NQf3BGwhDQLkIR0QLFeV4=
+
+Name: res/drawable/index4.jpg
+SHA1-Digest: GKJ4fjXF9ae3B6GOsAxa6PYMdkw=
+
+Name: assets/www/lib/ionic/src/battery-full.svg
+SHA1-Digest: OkK3lwC4Bd+fZ6ioUF5GqLnrSSU=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: arpf7Qty4wlDkQFBbLnKRpVDnWc=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_login_button_with_frame
+ _logo_pressed.png
+SHA1-Digest: yM8BZY4cNoK8D6kPgMs7EyRjG+4=
+
+Name: assets/www/lib/ionic/src/university.svg
+SHA1-Digest: 4a5E55CtZ6KeqhmeKUDLAC3wZ+s=
+
+Name: assets/www/lib/ionic/src/icecream.svg
+SHA1-Digest: rRZOn49t9+oU53IcgSnUHitksw4=
+
+Name: assets/www/lib/ionic/src/social-dribbble.svg
+SHA1-Digest: 83R+Lay5lWG6VmmUl2oced7bJY4=
+
+Name: assets/www/lib/ionic/src/android-menu.svg
+SHA1-Digest: EEYOwmk8Be0vssF+4yDeDg8QELU=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: iWnBegj7xEgPRnzxfo119q3abR4=
+
+Name: assets/www/lib/ionic/src/android-person.svg
+SHA1-Digest: K7GgdO5zCtgXiPzUWhF6rrRK160=
+
+Name: assets/www/lib/ionic/src/earth.svg
+SHA1-Digest: IpMd8umCQDR4roXImHuietfhr4E=
+
+Name: assets/www/plugins/com.verso.cordova.clipboard/www/clipboard.js
+SHA1-Digest: aEpw3vRJqNuR7k0ufL8jfk+vI7A=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sfer.js
+SHA1-Digest: gOyOgnLh2RFZUNVmSGxT8abajvA=
+
+Name: assets/www/lib/ionic/src/music-note.svg
+SHA1-Digest: 2RLowhAcGfy6DF7pM/IDjDQFHlM=
+
+Name: assets/www/lib/ionic/src/ios-list-outline.svg
+SHA1-Digest: XVUd+rdfAs0eVc4XaDYk39KiDak=
+
+Name: assets/www/lib/ionic/src/ios-moon-outline.svg
+SHA1-Digest: soQOwsB5GkowNw1mv+yC2KScoNs=
+
+Name: assets/www/lib/ionic/src/android-checkbox.svg
+SHA1-Digest: +ZdNhvHsfQYspWikiyZlQiRcQGw=
+
+Name: assets/www/lib/ionic/src/ios-information-empty.svg
+SHA1-Digest: iQPZBSzo/L3v+N7F98yJmILom+g=
+
+Name: res/drawable/com_sina_weibo_sdk_button_grey.xml
+SHA1-Digest: JS+3mYV/A6KFla7HnOrzKI6eQuM=
+
+Name: res/drawable-hdpi/index2.jpg
+SHA1-Digest: v/oNv9iwuZL/snAxBv4WcXzf4Do=
+
+Name: res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: u8lEY+2Bl006RY/NojCiasl0Huw=
+
+Name: res/drawable-mdpi/index3.jpg
+SHA1-Digest: ++dy4bndyZiOXON2iO//DMK9DfU=
+
+Name: assets/www/lib/ionic/src/ios-eye-outline.svg
+SHA1-Digest: qdusM0yEST+JYKqHgWky2gVmEfc=
+
+Name: assets/www/lib/ionic/src/ios-cloud-download.svg
+SHA1-Digest: n4pN0wJhKTPgEUnwGyUxwIgUZjo=
+
+Name: res/drawable-ldpi/index3.jpg
+SHA1-Digest: ++dy4bndyZiOXON2iO//DMK9DfU=
+
+Name: assets/www/lib/ionic/src/android-list.svg
+SHA1-Digest: gP1gpsjQOn5dJ+lU6g93JH/Wb3k=
+
+Name: assets/www/lib/ionic/src/android-stopwatch.svg
+SHA1-Digest: TUkYEHzxIf4mhf4LE+N7PdDJKdE=
+
+Name: assets/www/lib/ionic/src/ios-calculator-outline.svg
+SHA1-Digest: mPL+UzChwbDhN5RniKeHu9yNZKU=
+
+Name: assets/www/lib/ionic/src/social-wordpress.svg
+SHA1-Digest: GiZB+0r7rGIcCD9cFxNJ2DXn89Y=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: SXTM7R+F+fsyLrA9yecKbxZaTQg=
+
+Name: assets/www/lib/ionic/src/android-bicycle.svg
+SHA1-Digest: JoLDg4lCyLgMNFjtXh5ckeEf5Ew=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/File.js
+SHA1-Digest: bEuT31HoTEe0T96QNxh2Rc5wEfY=
+
+Name: assets/www/lib/ionic/src/disc.svg
+SHA1-Digest: URjrEr4C9iw5BkJkKoz+Riy0wXk=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: FKOjkNJTMFQ2MpZe7lFshoUiC8w=
+
+Name: assets/www/lib/ionic/src/mic-b.svg
+SHA1-Digest: NrgbgOXOumDPjqW3MhwdvRS9Fek=
+
+Name: assets/www/lib/ionic/src/ios-circle-filled.svg
+SHA1-Digest: TGZDN7AHzzaaoAGKW4mPDE4xLQE=
+
+Name: assets/www/lib/ionic/src/social-codepen.svg
+SHA1-Digest: dFlsY9g1z3oTg2NL16MpIUvfiPg=
+
+Name: assets/www/lib/ionic/src/help-buoy.svg
+SHA1-Digest: 3hA3YbVmWrkAcozAz4UpDy+TcIM=
+
+Name: assets/www/lib/ionic/src/ios-game-controller-a-outline.svg
+SHA1-Digest: 8WWpa3KmWzOg+FD/BciVHcUOqd4=
+
+Name: assets/www/lib/ionic/src/plus-circled.svg
+SHA1-Digest: M90kTh9D92YZGYkX/avV/+0EGLI=
+
+Name: assets/www/lib/ionic/src/navicon.svg
+SHA1-Digest: jprVHQPgDkl9jMw/Z0uUKdc6ncw=
+
+Name: assets/www/lib/ionic/src/ios-speedometer.svg
+SHA1-Digest: INlB1+aW2EyZzs/n4MK0VI6t/4g=
+
+Name: res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: uX86MGhu4M8vmPbtFYpYLNhN0I0=
+
+Name: res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: H5lDzV2Zw0y5I4W+edSWTSrKjWg=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.js
+SHA1-Digest: 5jANpOxNYDqAhAxEGX8XgcSYXQY=
+
+Name: assets/www/lib/ionic/src/android-arrow-down.svg
+SHA1-Digest: qjTuaVt0D5SIkQw97UMKdTp5KkQ=
+
+Name: assets/www/lib/ionic/src/social-freebsd-devil.svg
+SHA1-Digest: b1wMg1Nd/eC5rsXyYINlprdq6wU=
+
+Name: assets/www/lib/ionic/src/ios-more.svg
+SHA1-Digest: Wu16uCsZimgOFJbeLutzMcQIuFM=
+
+Name: res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: Xw3SsE9v8fEp7LBrP939ZVueks0=
+
+Name: assets/www/lib/ionic/src/social-dropbox.svg
+SHA1-Digest: 0/lpnEJZSTxmQ+MfvSvB6AU5R50=
+
+Name: assets/www/lib/ionic/src/android-print.svg
+SHA1-Digest: pY371y2q+BMfdwHX/Z4iIjin+7g=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileEntry.js
+SHA1-Digest: lRZQEnVEg2zd976jRKtem1u4dC8=
+
+Name: assets/www/lib/ionic/src/printer.svg
+SHA1-Digest: faTLIvt2kfntZB33hNg3wbfRmog=
+
+Name: assets/www/lib/ionic/js/angular/angular.min.js
+SHA1-Digest: I5qzgAQCu/XgfN/vuK6a0Hn3lqk=
+
+Name: assets/www/lib/ionic/src/ios-settings.svg
+SHA1-Digest: f9XfkjL7n3HJU6+NUhLOfNNh4DI=
+
+Name: assets/www/lib/ionic/src/ios-flower.svg
+SHA1-Digest: OjsfGz/raqzRPKgZkHwzBTpiS/o=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: I2ibHokbpGkcKXhTsPljd17oNhY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadResult.
+ js
+SHA1-Digest: zwdSIDUwbK8ndwvhEWXSGOq9whQ=
+
+Name: assets/www/lib/ionic/src/flash.svg
+SHA1-Digest: CIttdg1lPwGcxsvWJ99a5CsdH7o=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: assets/www/lib/ionic/src/ios-rewind-outline.svg
+SHA1-Digest: 8I9z8GBl+RPfDcZum8VPYP3MyVY=
+
+Name: res/drawable-hdpi/button_qq.png
+SHA1-Digest: RpX9sDLBzUF+e7kgwaLgBvYQO9o=
+
+Name: assets/www/lib/ionic/src/android-walk.svg
+SHA1-Digest: 7fvmMyec/XlBRJeAuLuE3TqJEPc=
+
+Name: assets/www/lib/ionic/src/social-hackernews.svg
+SHA1-Digest: Re23wmH5LYx27U8DMi8mHR1JSHw=
+
+Name: assets/www/lib/ionic/src/ios-rewind.svg
+SHA1-Digest: IuUSCsy7+nm95o42e7C/OxgMmO0=
+
+Name: assets/www/lib/ionic/src/social-sass.svg
+SHA1-Digest: l5IfHUurBian6f/MWcUNEDe2aLs=
+
+Name: assets/www/lib/ionic/src/android-cancel.svg
+SHA1-Digest: TfHAQrKRKH1u7+8dclk7xTQ3mZ0=
+
+Name: assets/www/lib/ionic/src/android-unlock.svg
+SHA1-Digest: 5ipomdAIbV2ksJ0480k8ySK4Vag=
+
+Name: AndroidManifest.xml
+SHA1-Digest: hQnhkPKV3mv5VXr4ZyG8Y2BSrsw=
+
+Name: assets/www/lib/ionic/src/ios-skipbackward.svg
+SHA1-Digest: kSSi58KNLikXMnJmpqb2xjVC9g8=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: qMANMwB04lLZzsPwIYT9/W7CByk=
+
+Name: assets/www/lib/ionic/src/social-javascript.svg
+SHA1-Digest: dk8xnliRTnsTOxkq7fpEOs1Lc7E=
+
+Name: assets/drawable-mdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: ov4pulcGm12EZ0xXUY9KDK66rog=
+
+Name: assets/www/lib/ionic/src/ios-copy-outline.svg
+SHA1-Digest: ho6xMO5zUQHQwo7ezbqUTPWElhs=
+
+Name: assets/www/lib/ionic/src/ios-cloudy-night.svg
+SHA1-Digest: tRKhNSb3UylKNA3+72HLFgh2H/k=
+
+Name: assets/www/lib/ionic/src/social-chrome.svg
+SHA1-Digest: BXfXjoXdZrMyBGuuJR1lkX8+Gtk=
+
+Name: assets/www/img/company/it/matchcv.png
+SHA1-Digest: DFcYRWYoXldoWzidpIczBdJ5Hko=
+
+Name: assets/www/lib/ionic/src/android-cloud-circle.svg
+SHA1-Digest: O4uVYAzTJuA8CasJQ431ZY/VhmE=
+
+Name: assets/www/lib/ionic/src/ios-volume-low.svg
+SHA1-Digest: GHlpk1kaKET9ntd5QaMGIezpSHQ=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: XbVTOCnh76gWnjKjybNK5988SNI=
+
+Name: assets/www/img/company/jr/minsheng.png
+SHA1-Digest: +jeB+Kn/00wpY09kbH4Pb/JEzRA=
+
+Name: assets/www/lib/ionic/src/thermometer.svg
+SHA1-Digest: UEGgPT8rk5jXfcBKEWYSAlEztTU=
+
+Name: res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: CyHUb+nEtXS5lCR5jTCXKlZ0AzU=
+
+Name: assets/www/lib/ionic/src/checkmark-circled.svg
+SHA1-Digest: PcJH1oCtD8+U16WAExBcyeG5GfM=
+
+Name: assets/www/lib/ionic/src/ios-filing.svg
+SHA1-Digest: 2BdKvdwGtvu9LsMgb+Rmz8znhvY=
+
+Name: assets/www/lib/ionic/src/social-tumblr-outline.svg
+SHA1-Digest: 2pxDHxxT8KiXezzqfFCEEEp+2r8=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_login_button_with_frame
+ _logo_normal.png
+SHA1-Digest: NJAEGAyqSrSxDg/YmY8gT2jCoHM=
+
+Name: res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: WXKtpz66pJSKelShj899BDnb29U=
+
+Name: assets/www/lib/ionic/src/ios-printer.svg
+SHA1-Digest: 0m2PmgKOEBR9eU6LyAXLaG+hr3I=
+
+Name: res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: t+u8aaAF2mVxkd2zirDsAbpJV1Y=
+
+Name: assets/www/lib/ionic/src/android-home.svg
+SHA1-Digest: bxxy29QmwzPDQoALYPr1uOSSSJI=
+
+Name: assets/www/img/bg.png
+SHA1-Digest: PxjYOuqubUbrKg5I8BBEOVUUNl8=
+
+Name: assets/www/lib/ionic/src/social-apple.svg
+SHA1-Digest: PBE+jIvtkYI/+b20iC7WAe3UTdc=
+
+Name: assets/www/img/background/money.png
+SHA1-Digest: BRCDdOSnjZ/T/xFBBg16Jkbred4=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ pressed.png
+SHA1-Digest: fhuGIpnNOEb6znqSs9l+9NsioSg=
+
+Name: assets/www/lib/ionic/src/social-euro-outline.svg
+SHA1-Digest: Ry+4y4UTIjcKz0o3BVrrlySKHcg=
+
+Name: assets/www/lib/ionic/src/ios-printer-outline.svg
+SHA1-Digest: xvOfHE+yvBaUyGTJeD4YCFTSpTw=
+
+Name: assets/www/lib/ionic/src/sad-outline.svg
+SHA1-Digest: xXYywDgSnrMLojBGHrsDBnTe+wQ=
+
+Name: assets/www/lib/ionic/src/female.svg
+SHA1-Digest: bjXR+I42FVVxvTnQFx5AFQD5MHM=
+
+Name: assets/www/lib/ionic/src/ios-basketball.svg
+SHA1-Digest: /rmOQk65IEE77kaH/9VQ4M1gl5Q=
+
+Name: assets/www/lib/ionic/fonts/ionicons.ttf
+SHA1-Digest: GwoN4ISQWUaiAwDKjDVIZd7EZ2Q=
+
+Name: assets/www/lib/ionic/js/angular/angular.js
+SHA1-Digest: hY68NKETDM+YyuAiOrYI1ciK+6I=
+
+Name: assets/www/img/tab1-a.png
+SHA1-Digest: 7NbyeGm1blv/VFARYOUuMyjkFcI=
+
+Name: assets/www/lib/ionic/src/android-playstore.svg
+SHA1-Digest: VynNvMxmMPh0QKmAHaZwxmxLoD8=
+
+Name: assets/www/lib/ionic/src/ios-keypad-outline.svg
+SHA1-Digest: 0Sjx/S6dsmRbR0ylKIdxrlEFSrE=
+
+Name: res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: SdW3kG04Oz0DVS8imQ8uAutwztU=
+
+Name: assets/www/cordova.js
+SHA1-Digest: oJ0ESkPlbmOnH0qguWuut2CG4Uk=
+
+Name: assets/www/html/say/list.html
+SHA1-Digest: q4/P5uXJucycBYJcJm9yRbuWDJw=
+
+Name: assets/www/lib/ionic/src/ios-stopwatch.svg
+SHA1-Digest: DX/PaeGw4F0HkkaJ074V0lI37CU=
+
+Name: res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: 4sG8K5n1hHojcvd2QbyDbU912VM=
+
+Name: assets/www/lib/ionic/src/thumbsup.svg
+SHA1-Digest: kPKu8AkeMMxZOOURqkuTCaIEW78=
+
+Name: res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: ZGa5KUTOdSU2J4s2wiAg6YjzYjQ=
+
+Name: assets/www/img/tab4-a.png
+SHA1-Digest: xCsqt9z8zjd3Ew2Gq12a4K2d/ws=
+
+Name: assets/www/lib/ionic/src/ios-grid-view-outline.svg
+SHA1-Digest: LT5QW8Sb+sD+srKR+Ot3u3bC1OU=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: Kurwlv4Jq5aYzUiR0hdzBXuLXic=
+
+Name: assets/www/lib/ionic/src/ios-drag.svg
+SHA1-Digest: Rc94nn/qznNTG8z7DEhbTD3MGeE=
+
+Name: assets/www/lib/ionic/src/mic-c.svg
+SHA1-Digest: 1Wu93n7ExBoB3+ryXsKCiok8jUc=
+
+Name: assets/www/lib/ionic/scss/ionic.scss
+SHA1-Digest: PhQDGNcP9WYvg3z7YH782Q41MUM=
+
+Name: assets/www/lib/ionic/src/android-checkbox-outline-blank.svg
+SHA1-Digest: PoH2bzdhh3gWeyBapobm2cUdZc8=
+
+Name: assets/www/lib/ionic/src/wifi.svg
+SHA1-Digest: dtasdjQWdwrpZ5TLx2fFhnFj6wE=
+
+Name: res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: PKBUWSCygzv8Cz2e5uVLNpawG4c=
+
+Name: assets/www/lib/ionic/src/social-designernews-outline.svg
+SHA1-Digest: FyVs6niUkFYPClzMb8OPtpU/e/g=
+
+Name: assets/www/lib/ionic/src/trash-a.svg
+SHA1-Digest: DbIUM4AwdTTf7M2egM6etB3vS00=
+
+Name: assets/www/lib/ionic/src/android-checkbox-blank.svg
+SHA1-Digest: Cm/TcWctiHn1x/M7+u7M1e/7XG4=
+
+Name: assets/www/lib/ionic/src/android-create.svg
+SHA1-Digest: LF7Cq+dn9YQciP61c3eeu2HA5cg=
+
+Name: assets/www/lib/ionic/src/happy.svg
+SHA1-Digest: krA5HjAAEbqFX/NPfog8oLI9qXw=
+
+Name: assets/www/lib/ionic/src/lock-combination.svg
+SHA1-Digest: 0wwj+dZ/w+CJSw4PQa/dGifkibE=
+
+Name: assets/www/lib/ionic/src/ios-refresh-outline.svg
+SHA1-Digest: cPbX+mWjvxkB3jtHxkrz0JlcFiA=
+
+Name: res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: /2mBmivLSyY7rFj/FYlp78++b/g=
+
+Name: assets/www/lib/ionic/src/android-call.svg
+SHA1-Digest: NNCDTcQ+XpO+f8V90kNdDgb2zOQ=
+
+Name: assets/www/lib/ionic/src/ios-mic-off.svg
+SHA1-Digest: WzOf250jqCy1nGJ/7e9GFQ3J+1s=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_button_grey_pressed.9.pn
+ g
+SHA1-Digest: P0wPjAW7g0+CwVv4YccsLFHlsh0=
+
+Name: assets/www/lib/ionic/src/ios-redo-outline.svg
+SHA1-Digest: 9keeCTiq+LJVz107BhlMWdgTIlQ=
+
+Name: assets/www/lib/ionic/src/paperclip.svg
+SHA1-Digest: Bp6zpoKiQeIpbm9DjI6xH5W+nCw=
+
+Name: assets/www/lib/ionic/src/refresh.svg
+SHA1-Digest: oswIETWObzmrq4MEy92FgCekkKE=
+
+Name: assets/www/lib/ionic/src/social-euro.svg
+SHA1-Digest: O2SuzXCwuOQKSi0BvYQd2lceFPU=
+
+Name: assets/www/lib/ionic/src/ios-play.svg
+SHA1-Digest: NjM3eFu+nIk1UIg9GlzlzfZzGHQ=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: +3A3jUbzRBRBAJ8oRmGYp+sMfXc=
+
+Name: assets/www/lib/ionic/src/social-snapchat.svg
+SHA1-Digest: +AmWGpTVtJKL9VsyjCCX075sXiw=
+
+Name: assets/www/lib/ionic/src/ios-loop.svg
+SHA1-Digest: ll1Kd7T09EmTOvHNIaumkH75seo=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ focused.png
+SHA1-Digest: ExKb1rRG25RxW8+HkUmv/gOkrnQ=
+
+Name: assets/www/lib/ionic/src/ios-skipforward.svg
+SHA1-Digest: JE2UjdG+TTmxPs+hVeY6L9ilcJ4=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: tSV+ntai3X0gwdpI30pKCwNbOkE=
+
+Name: res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qyyA8++tpZMeE5woicJ8hRb+SDY=
+
+Name: assets/www/lib/ionic/src/chevron-up.svg
+SHA1-Digest: CDpAhyGuC1cbRA5DIiT8KqEQRn0=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Metadata.js
+SHA1-Digest: 3X0WnYr1p+kjMYGY2pxkwdxmFKY=
+
+Name: assets/www/lib/ionic/src/android-contract.svg
+SHA1-Digest: b85Y846SsqmtQt6JwMri0YMoIHM=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: assets/www/lib/ionic/src/social-yen.svg
+SHA1-Digest: CvuWF2+7JvJoro3sZ1wdbcIoZGg=
+
+Name: assets/www/lib/ionic/src/volume-high.svg
+SHA1-Digest: CjIl+tFe/AyooCbnpAUnTjxJiDk=
+
+Name: assets/www/lib/ionic/src/reply.svg
+SHA1-Digest: ATej29imsYxtyQFWZ4lZTFSTZJ4=
+
+Name: assets/www/lib/ionic/src/headphone.svg
+SHA1-Digest: IglwzJfvbEMQm3xMBZm5dcZSE8k=
+
+Name: res/layout/start.xml
+SHA1-Digest: Xm+yQtpG66DvMqAzDkYcvUNBrqc=
+
+Name: assets/www/lib/ionic/src/ios-reverse-camera-outline.svg
+SHA1-Digest: 9yaQnD8gvSX284Zr0xLI63kfVo4=
+
+Name: assets/www/lib/ionic/src/arrow-graph-down-right.svg
+SHA1-Digest: w9ShG8qI8eC42IbaXmKe0oYuqIY=
+
+Name: assets/www/lib/ionic/src/trash-b.svg
+SHA1-Digest: cqXibco/pUw2iBY4/n0V/zo13cg=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileWriter.js
+SHA1-Digest: FkRhhMFSyhN4K4rpd5dfDUIZlgQ=
+
+Name: res/drawable-xxhdpi/ic_com_sina_weibo_sdk_login_with_account_tex
+ t_focused.png
+SHA1-Digest: CInpQCLGI0OOm0iQyQj9PG9RTsg=
+
+Name: assets/www/lib/ionic/src/social-twitter-outline.svg
+SHA1-Digest: 5o3Lq0vGV+bA3n03juI0t2vRzNw=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: Gr88G2zQ2X0grlFxAco+5IsVZzU=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: j7hOh3KyWDhnimjUpATg2As4ulA=
+
+Name: res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: DMlBOyPvgod2o7ak0ZKd1s1flKg=
+
+Name: assets/www/lib/ionic/src/android-add-circle.svg
+SHA1-Digest: cZkslfjr4Uk8+Qaw4qIteDB+Bho=
+
+Name: assets/www/lib/ionic/src/social-yahoo.svg
+SHA1-Digest: xJX/aqG+Cs8NH0Qb+C1ig54X1r4=
+
+Name: assets/www/html/job/view.html
+SHA1-Digest: JEmu6Aq9Xzt3itD+xL0U9ytHELQ=
+
+Name: assets/www/lib/ionic/src/ios-infinite-outline.svg
+SHA1-Digest: pF4ZSwbLa/zd7E4+36/oFZ7hO2g=
+
+Name: assets/www/lib/ionic/src/android-laptop.svg
+SHA1-Digest: bktDZc2wPuOTD+EoGs/6XJ4dgeA=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: U9qijp2OaU7DZSPFUVfhxFSI1Pc=
+
+Name: assets/www/html/say/view.html
+SHA1-Digest: 6c1qlSIECu0bbNpvbeTQ+I5K00k=
+
+Name: res/layout/auth_linkedin.xml
+SHA1-Digest: j2jwdsAA4Gf7b/kHTlkH0bytPKk=
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: B+cN6iKZSO8ykyZHYqOhXoO7dJA=
+
+Name: assets/www/html/usr/main.html
+SHA1-Digest: KXpwhjkn2oGx9gtxTjg7WrLhObg=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_logo.png
+SHA1-Digest: FF1w5dUU38U+kMefbaeV9XaStt4=
+
+Name: assets/www/lib/ionic/src/android-arrow-back.svg
+SHA1-Digest: i9fi0NuKyvReWNaUup9Nr7MZQDY=
+
+Name: assets/www/lib/ionic/js/ionic.min.js
+SHA1-Digest: jTJN8jnvEljxs/xN3X0n/K/WZIo=
+
+Name: assets/www/lib/ionic/src/lightbulb.svg
+SHA1-Digest: 5p8AOiGMU9wf1noygrzZTwtMPHY=
+
+Name: res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: Q3qsjnH/9ZB5XoMq6yumlkAhcqY=
+
+Name: res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: idNZFNqwX4NjrkS539jMeovyeGY=
+
+Name: assets/www/lib/ionic/src/ios-bolt.svg
+SHA1-Digest: Z/oZzxTVT2z4UBgqd2oR37uMIY8=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropleft-circle.svg
+SHA1-Digest: CYhvottn2OK3Z4n5xt/mUdTHG1o=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_login_with_account_text
+ _normal.png
+SHA1-Digest: LitHiXxGhnwfOwq4zymkjwcdUWc=
+
+Name: assets/www/lib/ionic/src/android-image.svg
+SHA1-Digest: MUgjh0p3huNlgbmCwFxWV1k1V7E=
+
+Name: assets/www/lib/ionic/src/ios-baseball-outline.svg
+SHA1-Digest: nOJbAVzKcVQSX8ZOc89WjLzmvMk=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: assets/www/lib/ionic/src/ios-ionic-outline.svg
+SHA1-Digest: 5OJ8fiP+pkD8RZJS3NvAYoMMyB8=
+
+Name: res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: mKelBYxIm5wlrcb8sZ5VCCPnGJs=
+
+Name: assets/www/lib/ionic/src/android-options.svg
+SHA1-Digest: Ojg0Kg4uR5CC7u75rw2LE8eohZE=
+
+Name: assets/www/lib/ionic/src/ios-plus.svg
+SHA1-Digest: j5NQ//5xsz7C47hNNVYEYmGQEqQ=
+
+Name: assets/www/lib/ionic/src/ios-wineglass.svg
+SHA1-Digest: uGvSDfziUk/mrYD8G/fq59pWKAc=
+
+Name: res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: Jul20R2gjXIxhlqqy6XhG7+YKN4=
+
+Name: assets/www/lib/ionic/src/android-done.svg
+SHA1-Digest: DLrIdLAdbZyim/swm1z/BBvMOic=
+
+Name: assets/www/lib/ionic/src/social-apple-outline.svg
+SHA1-Digest: Tc4T6GXUWVWdx+rIxnMlr1FP3eQ=
+
+Name: res/layout/abc_simple_dropdown_hint.xml
+SHA1-Digest: 9QsIz7oIlTWay0j7V/AhOBXdPX8=
+
+Name: assets/www/lib/ionic/src/fireball.svg
+SHA1-Digest: J7eJrU+SataeygIoMq7pfxYCIoU=
+
+Name: assets/www/lib/ionic/src/ios-football-outline.svg
+SHA1-Digest: 46xAHGs0tbCdn3BmRHv/dpR+5xs=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/fileSystems-roots
+ .js
+SHA1-Digest: K9aJU3LkfaxdugP5+JFBMbq8gaY=
+
+Name: res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: a8xVKDyfxnIWyv5j4+59ahJhfOc=
+
+Name: assets/www/img/like2.png
+SHA1-Digest: e1kQiEYdoIfgONAoFFtsLd71o/c=
+
+Name: res/drawable-ldpi/button_weibo.png
+SHA1-Digest: 2lDZlEwmD37UCw1fhb/sA8rqmys=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: mIKi3+j04oH7AZ0ZXwHy2cpS2n4=
+
+Name: res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: Bg7PPIapjd3WksUW4TbHF8zJ1YU=
+
+Name: assets/www/lib/ionic/src/toggle.svg
+SHA1-Digest: GQZYvx2hgxFwmlFdZklK86raktU=
+
+Name: assets/www/lib/ionic/src/social-whatsapp-outline.svg
+SHA1-Digest: Vfx4wbg6qW6Z+yAbhpLGAvmrU0w=
+
+Name: assets/www/lib/ionic/src/upload.svg
+SHA1-Digest: sIIjE+lJCRtyHvGvoMyLwMFnitA=
+
+Name: assets/www/lib/ionic/scss/_platform.scss
+SHA1-Digest: iUCUfJNX+rHAcqXToPN5IHMwQr0=
+
+Name: assets/www/lib/ionic/src/pound.svg
+SHA1-Digest: m9YJq6um5MPs6MzynDxxXewPTCM=
+
+Name: assets/www/lib/ionic/src/search.svg
+SHA1-Digest: qRKG3UCc2Q2EaYcEq20V9YKKwRc=
+
+Name: assets/www/lib/ionic/src/tshirt.svg
+SHA1-Digest: fbYFcvjzc/hUokypEOrb8B8fPdM=
+
+Name: res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: PIrE1bETED2AcFA+Z0PCJDOewO4=
+
+Name: assets/www/lib/ionic/scss/_progress.scss
+SHA1-Digest: Ydk8wjpcyU4HH8urN0rYPeUHH4c=
+
+Name: assets/www/lib/ionic/src/ios-navigate.svg
+SHA1-Digest: VGcDYeRhnZh1n9mmYuxjqsQFMxM=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_normal.png
+SHA1-Digest: G6A4htn4FTvp5RpaMyGkuqbO5n8=
+
+Name: assets/www/img/company/fdc/lvdi.png
+SHA1-Digest: Sa6p9Skuwe+3MxQrIfuFRPdZcyA=
+
+Name: assets/www/lib/ionic/src/speedometer.svg
+SHA1-Digest: Gdw42qROSGB2PBICpfBnh7dSjvM=
+
+Name: assets/www/lib/ionic/src/social-snapchat-outline.svg
+SHA1-Digest: hlXKL+x0d1xD+/QitPeUAhcd7SQ=
+
+Name: assets/www/lib/ionic/src/help-circled.svg
+SHA1-Digest: ojAR4rF4r59kBfMmI7dNdxOCBQU=
+
+Name: assets/www/lib/ionic/src/social-instagram-outline.svg
+SHA1-Digest: az3qEOGBsfNl+fxBQNRuWc0+F/4=
+
+Name: assets/www/lib/ionic/src/soup-can-outline.svg
+SHA1-Digest: aICHPe5G6wI98mwz3zgUFH+0kPA=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropdown-circle.svg
+SHA1-Digest: V1IBSroF3H+f6tOu9PfZwdNF78U=
+
+Name: res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 1QPjonCqX7Ej2+I11UNTUpAO0bI=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Flags.js
+SHA1-Digest: 0Uu8pBiwVbmhGmpeoPn3cqiu6h4=
+
+Name: assets/www/lib/ionic/src/ios-pint.svg
+SHA1-Digest: HlJoDtY29jSx7KHRwZ7NNICjWEM=
+
+Name: assets/www/lib/ionic/src/pull-request.svg
+SHA1-Digest: 6aynpnhkgAOVUL4ccqWU7GFnbTw=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: tBDuzqZKYLCNN0sbPW4tyRlkHRk=
+
+Name: res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: CR8bmoC17ayi28cKtgMFtgFBDjo=
+
+Name: assets/www/lib/ionic/src/ios-stopwatch-outline.svg
+SHA1-Digest: 563Z1NU3W5V2mPOBQPu4pLkQ/qs=
+
+Name: assets/www/lib/ionic/src/toggle-filled.svg
+SHA1-Digest: Yvc/YphlOOB0XKBxR+fwokxh84M=
+
+Name: assets/www/lib/ionic/src/ios-arrow-down.svg
+SHA1-Digest: dIZUmzD03Gyz4zre1OBOXopZns4=
+
+Name: res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: B6tgHTFC4lS7PfBAmHI3NWsDP7A=
+
+Name: assets/www/lib/ionic/src/ios-arrow-thin-down.svg
+SHA1-Digest: +hHqpAKr2KiLvVJgXZHQScLrIgo=
+
+Name: assets/www/img/company/fdc/wanke.png
+SHA1-Digest: x2pO+XV50BDHxsWU8dkYgPGvEe4=
+
+Name: assets/www/lib/ionic/scss/_button-bar.scss
+SHA1-Digest: QoNuranQpirbse8cHTd6k6wwKYw=
+
+Name: assets/www/lib/ionic/src/outlet.svg
+SHA1-Digest: sZ7Qq/9jLV2dGDk5RE0GnvFi9cM=
+
+Name: assets/www/lib/ionic/src/ios-unlocked.svg
+SHA1-Digest: nwJu+CTGs+NLBWe3Mi7mRms761E=
+
+Name: assets/button_red.9.png
+SHA1-Digest: z8N2pqVNkCyZz5wtpznaYVj1Als=
+
+Name: assets/www/lib/ionic/src/ios-sunny-outline.svg
+SHA1-Digest: YJyIq+I+eap25xRp4lbvTeC2shA=
+
+Name: assets/www/lib/ionic/src/social-rss-outline.svg
+SHA1-Digest: sm9aQ8k8mCU07hA4Ly3h/HMe+lc=
+
+Name: assets/www/lib/ionic/src/ios-arrow-back.svg
+SHA1-Digest: 8/9UfCzYy3oIse6X4uAMf1VMmxk=
+
+Name: assets/www/lib/ionic/src/android-color-palette.svg
+SHA1-Digest: 5ddnFc7o5zolc1fKNhFavsEPpZo=
+
+Name: assets/www/lib/ionic/src/ios-baseball.svg
+SHA1-Digest: 6iQvGsElP/QUdHRALOdKDBDt7v4=
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8UdqvLb0HOmVMH2qCnY9uOrXQWM=
+
+Name: assets/www/lib/ionic/fonts/ionicons.eot
+SHA1-Digest: YVMuieIS+N0WujHz6881wKczQDU=
+
+Name: assets/www/lib/ionic/src/ios-filing-outline.svg
+SHA1-Digest: s3FBWxiytA/jq/xxMoIdrAqyuDw=
+
+Name: assets/www/lib/ionic/src/cloud.svg
+SHA1-Digest: rELQl4RjrLqq350PxLC+a0m8i/Y=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_pressed.png
+SHA1-Digest: E1cMTjqMzKk3JlzGDKSrZdfUsVQ=
+
+Name: assets/www/lib/ionic/src/android-volume-down.svg
+SHA1-Digest: Li8XXZJgXah+JoCvLMqW7RarXmQ=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: opnUPOO03ZPUQhgEucoOd4r/Vg0=
+
+Name: assets/www/lib/ionic/src/record.svg
+SHA1-Digest: /MXJpmxjhpaSED+HyMyiPa1hg5I=
+
+Name: assets/www/lib/ionic/src/ios-americanfootball-outline.svg
+SHA1-Digest: oD7Em2oSa1x1zu6617JafZjY/yA=
+
+Name: assets/www/lib/ionic/src/ios-folder.svg
+SHA1-Digest: HfrkievNmk4ONFtkehmW3NfCnps=
+
+Name: assets/www/lib/ionic/src/ios-analytics-outline.svg
+SHA1-Digest: BUyrSAEnXvuWIk6WAWgRF+LzRuw=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/resolveLocalFileS
+ ystemURI.js
+SHA1-Digest: r/tVdiahsjzCplk9ATijkBOyfgw=
+
+Name: assets/www/lib/ionic/src/backspace-outline.svg
+SHA1-Digest: HJl/EFhkPZKrKzRTsbImtg6SH9w=
+
+Name: res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: StjC3BA1LtHVLp7GTDic4k0PU08=
+
+Name: assets/www/html/reg/3.html
+SHA1-Digest: BuGz7kC/zP6EyQs1v4E8U40BptE=
+
+Name: assets/www/lib/ionic/src/social-python.svg
+SHA1-Digest: z2MsgDc7XleXmjHfWwbjg0vHzLY=
+
+Name: assets/www/lib/ionic/src/ios-cloud.svg
+SHA1-Digest: t6gXMb3/z3AI5uTgUuvOPzWwbGc=
+
+Name: res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: lE9emiDkxOmBmaNeDovU1EZQC2A=
+
+Name: assets/www/lib/ionic/src/android-share-alt.svg
+SHA1-Digest: arQP3GHvA1cxBpnwVQ0cuTs1a28=
+
+Name: assets/www/lib/ionic/src/ios-pulse-strong.svg
+SHA1-Digest: NSZv2hkIZmziI4JgAOOeJy1LTq4=
+
+Name: res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: UrMd5Q/nT3zvFgkiyUUEZqSex7A=
+
+Name: assets/www/lib/ionic/src/ios-minus-outline.svg
+SHA1-Digest: iFeZ3sygnM8lU+7ENqT3SBzv5SA=
+
+Name: res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: KVPasUIEwylEuHQRSTZ6eGpVtYg=
+
+Name: assets/www/lib/ionic/src/pin.svg
+SHA1-Digest: AXt7J4/Qa0unskKMY2mkjl0ZIpw=
+
+Name: res/drawable-hdpi/button_weibo.png
+SHA1-Digest: 2lDZlEwmD37UCw1fhb/sA8rqmys=
+
+Name: assets/www/lib/ionic/src/ios-bolt-outline.svg
+SHA1-Digest: rHjRlS++Obco7vFegYu/kzLIIwI=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: AcVMaEQaSnUp21rVqaulrkGWxU4=
+
+Name: assets/www/lib/ionic/src/social-octocat.svg
+SHA1-Digest: 62kqZ5wZjHjQzAY9p+VVPz4hqok=
+
+Name: res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: XhcFy7gYsbKltZVivp8ycgXUuTE=
+
+Name: assets/www/lib/ionic/src/ios-list.svg
+SHA1-Digest: t4572jJoIaj/trCy/EOkaL/v0Eo=
+
+Name: assets/www/lib/ionic/src/ios-telephone-outline.svg
+SHA1-Digest: 79aS70re6zzI3jNTEbsV1jIbD60=
+
+Name: assets/www/img/ionic.png
+SHA1-Digest: B19Znm8fDUvSD/71TjItl5Qhopg=
+
+Name: assets/www/lib/ionic/src/ios-flag.svg
+SHA1-Digest: ECnuXc/YMCWY5Z+eRIldi4Nqbpo=
+
+Name: res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZCWbX0fQHZsWK6AU9JmOADI6oXA=
+
+Name: assets/www/lib/ionic/src/android-film.svg
+SHA1-Digest: Y5MmPK1XnfuPUUDhtJi0G9YZ1oo=
+
+Name: assets/www/lib/ionic/src/ios-color-filter-outline.svg
+SHA1-Digest: +XrIqrOnbzL52il2LkY3r0C+ZfE=
+
+Name: assets/www/lib/ionic/scss/_checkbox.scss
+SHA1-Digest: Gd7IwyrT8xuSoVN6VNULbr62w/U=
+
+Name: assets/www/lib/ionic/src/android-apps.svg
+SHA1-Digest: n/a1G4IWpSoDpopQhSW0ZgzXFqE=
+
+Name: assets/www/lib/ionic/src/chatbubbles.svg
+SHA1-Digest: QdmPmQgNCs7/FarfTmdmh1B0xCA=
+
+Name: assets/www/lib/ionic/src/ios-game-controller-a.svg
+SHA1-Digest: n/XjiGjzxNHb4ofprFt1xSuJV3M=
+
+Name: res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: eesDdIR2pSACk6WGO1GXNzeNy2E=
+
+Name: assets/www/lib/ionic/src/android-sunny.svg
+SHA1-Digest: Qdv5zIIzalHiVsLf/i1crsMMHmk=
+
+Name: res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 109j25E/mkMfIFzj68LxuaJIvds=
+
+Name: res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: tpEM52vWcakmOwaErjJ4ZPrPYyg=
+
+Name: assets/www/lib/ionic/src/ios-pulse.svg
+SHA1-Digest: xYTOyu8RRYe/jnenA6Dq0uv79LQ=
+
+Name: assets/www/img/company/jr/shenwan.png
+SHA1-Digest: 0rwCt2PrAkFm4R0ZF7brayJp1gQ=
+
+Name: res/drawable-xxhdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: nHEZPvdTcX4EDf/bnjw3zlxCUKg=
+
+Name: assets/www/lib/ionic/src/ios-nutrition-outline.svg
+SHA1-Digest: FhfoAK0GNe1F8Vgd4JboAQcZJw0=
+
+Name: res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: H3IfE7NWe2qX8Lw8zD2tmCu/mjk=
+
+Name: assets/www/img/company/it/tencent.png
+SHA1-Digest: xHOlpwHLyzOBZC6rhI5kq94Jeag=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: 3EXNu7OhoBCVpsFeUsS1v7uOEts=
+
+Name: res/drawable/index.png
+SHA1-Digest: bKY/BsOpBJeDGbCbb5M/j57KY70=
+
+Name: assets/www/lib/ionic/src/ios-glasses.svg
+SHA1-Digest: jFeaYEn0uzIr5rQMfn5B7gc/LLc=
+
+Name: assets/www/lib/ionic/src/ios-medkit.svg
+SHA1-Digest: amGsbaUOLqR15dxhYY59wdqVqjE=
+
+Name: res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: jVPtpYAlDpgcnAlu72OtcG8IpPg=
+
+Name: assets/www/lib/ionic/src/leaf.svg
+SHA1-Digest: KM5koCjwQCoV0dr3sxG19AAkUiE=
+
+Name: res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nMT8CYbuKHzpWZcJzuBPVhomGZo=
+
+Name: assets/www/lib/ionic/src/pinpoint.svg
+SHA1-Digest: ID9+YbXZbFJ/SnthZ5nH6uX/v3Q=
+
+Name: assets/www/lib/ionic/src/hammer.svg
+SHA1-Digest: Tj0CqzBtmfnwkrBly7aAgmknuHM=
+
+Name: assets/www/lib/ionic/src/eye.svg
+SHA1-Digest: Efq6JGc/ePUT9ZQTVCK1TNTQ15A=
+
+Name: assets/www/lib/ionic/js/angular-ui/angular-ui-router.min.js
+SHA1-Digest: CaV+Q1ge4KiJlWo+xuvOh2asvtM=
+
+Name: assets/www/lib/ionic/src/ios-download-outline.svg
+SHA1-Digest: 2SpFJ5JkHVZwnTvZEsP3fC1wQ6o=
+
+Name: assets/www/lib/ionic/src/stop.svg
+SHA1-Digest: ZgshhGjdvG15TfRPOs5aUsJCgXg=
+
+Name: res/drawable-hdpi/ic_action_remove.png
+SHA1-Digest: fJ8PTsrpYrWc6H7e3ctCsDSiaAY=
+
+Name: assets/www/lib/ionic/scss/_util.scss
+SHA1-Digest: 2Lmv1/qo8UwEdlcEsAbWLiDl48Q=
+
+Name: assets/www/lib/ionic/src/shuffle.svg
+SHA1-Digest: BQG1uFTh0eiLc40a9kN+qG5RUMc=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_button_grey_pressed.9.pn
+ g
+SHA1-Digest: tWUWjtTo3HxE/8a02qZ5QsaeyfM=
+
+Name: assets/www/lib/ionic/src/wineglass.svg
+SHA1-Digest: Boc/dSdP0Bcxaxi6tvjXr4ZyCTY=
+
+Name: assets/www/lib/ionic/src/ios-albums.svg
+SHA1-Digest: HfRl124dgCGTblhOmAWm3L+qJC4=
+
+Name: assets/www/lib/ionic/src/ios-lightbulb.svg
+SHA1-Digest: DVjK2Kea+UoHs4BXegOUC4wPj7w=
+
+Name: res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: 3/M33ElldnGYpXd83Qxt6UHPIg4=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_login_with_account_text
+ _focused.png
+SHA1-Digest: TZT3ljm2+fqte2zVYLgVWK7sRu4=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: C/u3/KyANuMqWUIFiiMeXKD8YR4=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_button_grey_pressed.9.p
+ ng
+SHA1-Digest: CKFnDef2GfRTaRgjuT6+/5YzUk4=
+
+Name: res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: FpYHGCYxiN4JmIe306+/Faujrtc=
+
+Name: assets/www/lib/ionic/src/android-volume-mute.svg
+SHA1-Digest: jjhlC9VyGSvfYeIF8Ttt6J++iYk=
+
+Name: assets/www/lib/ionic/src/volume-low.svg
+SHA1-Digest: amqDvg8gYE7j6SDMPWDzof9XFf8=
+
+Name: assets/www/lib/ionic/src/ios-flask.svg
+SHA1-Digest: diRFKY7wNZ8wUtyBX98Cp9m0Q6w=
+
+Name: assets/www/lib/ionic/scss/_scaffolding.scss
+SHA1-Digest: LDbNaJ4+Ij40mH6Wle92jlaWR8k=
+
+Name: assets/www/img/company/it/jd.png
+SHA1-Digest: sYYVF/ntakpqwOIIvEwjKfT8Al8=
+
+Name: res/drawable-xhdpi/ic_action_remove.png
+SHA1-Digest: l5JGHVyNioatN5tnVH3EIvs4nRA=
+
+Name: assets/www/lib/ionic/src/social-pinterest.svg
+SHA1-Digest: dFXMuhD+JqqZuZmRiKsQdSMgWEE=
+
+Name: assets/www/lib/ionic/src/close-round.svg
+SHA1-Digest: 8xl0A94qlQvJ4fQGhtvIws9eCco=
+
+Name: assets/www/lib/ionic/src/arrow-return-right.svg
+SHA1-Digest: WDqWhBArL27sAPu9bbGe8s3EBNE=
+
+Name: assets/www/lib/ionic/src/ios-medkit-outline.svg
+SHA1-Digest: 5bVwRHIihuonQRKRV2LRuiBqvqs=
+
+Name: assets/www/lib/ionic/src/social-codepen-outline.svg
+SHA1-Digest: YqcIc1KwHUogyGz3DmRVpCOoFqY=
+
+Name: assets/www/lib/ionic/js/angular/angular-resource.js
+SHA1-Digest: C2hXV+uqf5EMLBKCnYh+z3H1HP0=
+
+Name: classes.dex
+SHA1-Digest: PL5SfgQF4KoxgRB+ouBUfvtjUu0=
+
+Name: assets/www/img/company/jr/dahua.png
+SHA1-Digest: ZyGo/LJ1rGj8gV9EEThdrBWYztQ=
+
+Name: res/drawable-ldpi/button_linkedin.png
+SHA1-Digest: GjqWiEkI0W1UtGdS6n+C/d/AlRI=
+
+Name: assets/www/lib/ionic/src/android-radio-button-on.svg
+SHA1-Digest: 4+RO9G+VjVgf0sgWQtR7QIuJ++Y=
+
+Name: assets/www/lib/ionic/src/information.svg
+SHA1-Digest: HriwCsddmVfBN0eEMEhM1J6b7TE=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileSystem.js
+SHA1-Digest: 10ZnqehdLWl2W6cPxds2HQ2SPFs=
+
+Name: assets/www/lib/ionic/src/ios-trash.svg
+SHA1-Digest: 7F6Rwd4GtIRivARmxAi1JCkyU/0=
+
+Name: assets/www/lib/ionic/src/ios-toggle.svg
+SHA1-Digest: SbIuHRkXburzkFgX62DcxxWfk+4=
+
+Name: assets/www/lib/ionic/src/pricetag.svg
+SHA1-Digest: YxGM+6omcfS4PamXcDBi4RRrWjA=
+
+Name: assets/www/lib/ionic/src/speakerphone.svg
+SHA1-Digest: hnfVKY38oNLEytRTLo4Jmg7rKHM=
+
+Name: res/drawable-mdpi/button_weibo.png
+SHA1-Digest: 2lDZlEwmD37UCw1fhb/sA8rqmys=
+
+Name: assets/www/lib/ionic/src/alert.svg
+SHA1-Digest: ZS2D7lwOOe+2YYhWCLX2CR9Aa9M=
+
+Name: assets/www/img/arrow3.png
+SHA1-Digest: Lh9CnqpuNiCC3ZnUQO9+2b8XJwU=
+
+Name: assets/www/html/usr/intention.html
+SHA1-Digest: FF6J5Yh4Z+O2YWAf5GZzKV+TPEA=
+
+Name: assets/www/lib/ionic/src/android-locate.svg
+SHA1-Digest: 5a3G7LdxzzIkfpCyTGzvnb8G4Ys=
+
+Name: assets/www/lib/ionic/src/ios-location.svg
+SHA1-Digest: xXU7idTqFEnm3ieWrwts3JjE7Bs=
+
+Name: assets/www/lib/ionic/src/social-reddit-outline.svg
+SHA1-Digest: xn0P9T3uMMYM7jFSC9kVenp8JVA=
+
+Name: res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: H6QyACqlrLL5v6tTVSXDgysUOqU=
+
+Name: res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: YA3omlh6NQQmTJV+D2hyeVPUvOE=
+
+Name: assets/www/lib/ionic/src/ios-shuffle-strong.svg
+SHA1-Digest: dDTreDxwaexLMsDA6SSH7VKoSEU=
+
+Name: assets/www/lib/ionic/src/android-cloud.svg
+SHA1-Digest: +ziuq/QbnrcyN73QGlqXatIun6o=
+
+Name: assets/www/lib/ionic/src/help.svg
+SHA1-Digest: 109hAHDb3/6cwzlOtJffwHFpD6Q=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: assets/www/lib/ionic/src/log-out.svg
+SHA1-Digest: lg6K63vTRUi2bJgiNOUirL8HsDI=
+
+Name: res/drawable-ldpi/index.png
+SHA1-Digest: bKY/BsOpBJeDGbCbb5M/j57KY70=
+
+Name: assets/buttonNegt.png
+SHA1-Digest: M/KJLlnIIzm0mx/H8xU6UaR6OUo=
+
+Name: assets/www/lib/ionic/src/ios-cloud-upload.svg
+SHA1-Digest: nilTiqOt4i6jmcMINbVmMq6pxl4=
+
+Name: assets/www/img/company/fdc/fuli.png
+SHA1-Digest: 2u4gRj6qsMmj9b2Qk3QzGvONLUc=
+
+Name: assets/www/lib/ionic/src/ios-pint-outline.svg
+SHA1-Digest: HyZYN2f5CqJYCG5WOq62AAUkTVI=
+
+Name: assets/www/lib/ionic/src/ios-search.svg
+SHA1-Digest: Xc5SRAlt/l1sAlfxcY1L/UfOLNc=
+
+Name: assets/www/html/usr/career.html
+SHA1-Digest: MKe46C6vobyGujB46zNpNJ35IBs=
+
+Name: assets/www/lib/ionic/src/ios-clock-outline.svg
+SHA1-Digest: ketFNCAMnHAn2Z8yLfVkT5lvV7s=
+
+Name: assets/www/lib/ionic/src/erlenmeyer-flask-bubbles.svg
+SHA1-Digest: nNZJcblgc2YEtNwqvVDsO7+LdlU=
+
+Name: assets/www/lib/ionic/src/social-twitter.svg
+SHA1-Digest: YU8u4PNBCuN7LU/f2wMnLknHadk=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: ZKZQoX50RB5L5IVHktjqEU/tzN4=
+
+Name: assets/www/lib/ionic/src/ios-home-outline.svg
+SHA1-Digest: LxEZf15n8hPiVIKNM4/8EsOTmZM=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/android/FileSyste
+ m.js
+SHA1-Digest: U7oappTFR3UlVHc04uvne1Rrfi0=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ZKZQoX50RB5L5IVHktjqEU/tzN4=
+
+Name: assets/www/lib/ionic/src/battery-low.svg
+SHA1-Digest: uMcBaoqm+uEfVmFybTWlm30kwYI=
+
+Name: resources.arsc
+SHA1-Digest: sUtcqkcVH21O5XKvptAMaGszUYU=
+
+Name: assets/www/lib/ionic/src/android-checkmark-circle.svg
+SHA1-Digest: txF45lJHlJpnsUWPIb9o87JREYE=
+
+Name: assets/www/lib/ionic/src/skip-forward.svg
+SHA1-Digest: wjDc9BX43Zdgt4C4b+yLJDPRSKw=
+
+Name: assets/www/lib/ionic/src/android-map.svg
+SHA1-Digest: oWQ2ZMVRnFW6QCce073Iauc4vs8=
+
+Name: assets/www/lib/ionic/src/ios-thunderstorm-outline.svg
+SHA1-Digest: pYtgOJhKxyq9oxWRAxLqSUswxqw=
+
+Name: assets/www/lib/ionic/src/ios-settings-strong.svg
+SHA1-Digest: +mQDxXAzR1cF9h7oNygWkwaeFs0=
+
+Name: res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA1-Digest: wPz+M6DVeMcVgwye2NOpYT7ep7Q=
+
+Name: res/drawable/button_qq.png
+SHA1-Digest: RpX9sDLBzUF+e7kgwaLgBvYQO9o=
+
+Name: assets/www/lib/ionic/src/calendar.svg
+SHA1-Digest: IfGuGnCGO5MiEMjaihXliEHYDXc=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: tB5OWH9PLfGhYUi0ff5UDkaatac=
+
+Name: assets/www/lib/ionic/src/android-more-vertical.svg
+SHA1-Digest: ljLQg1FbH8HuFn8gAeLDHfMPtaU=
+
+Name: res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: snXw4efr/2EiA74q7Vl0vEpjbxA=
+
+Name: res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: EyRNwwezVx7gb5oM2lYtpw6AKR4=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_focused.png
+SHA1-Digest: EODJ10l39lwftJcK9OHmgzyagMk=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_focused.png
+SHA1-Digest: AEbFLaUjkipE5JcMwKtZlP8g6dc=
+
+Name: res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: wKlo7TtwiIb4pf2WM4ufy1DdPTg=
+
+Name: assets/www/lib/ionic/src/minus-circled.svg
+SHA1-Digest: GC6qlGQ7GDF4MM6AW2XjeYcVXEY=
+
+Name: res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: kvy6NVZis2HTuWhGbjSTUHivrS8=
+
+Name: assets/www/lib/ionic/src/trophy.svg
+SHA1-Digest: 0+Dafy3fRhuts5No18cC9FNmuRI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ZKZQoX50RB5L5IVHktjqEU/tzN4=
+
+Name: assets/www/lib/ionic/src/radio-waves.svg
+SHA1-Digest: MfE9uGG2qNd7jeJHZrzmWf51OWs=
+
+Name: assets/www/lib/ionic/src/ios-upload.svg
+SHA1-Digest: 4gF435utR7usT/IC9HR4LkBT7sw=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: g5RFRkZdKNJaGPQ3wfJ4B4SWuZg=
+
+Name: assets/www/lib/ionic/src/ios-personadd.svg
+SHA1-Digest: jPbGIapzMc1k++k3l/bqpWuWMao=
+
+Name: assets/www/html/start.html
+SHA1-Digest: gDwTgUosMia1m/gCuWchuGsy5Ls=
+
+Name: assets/www/lib/ionic/src/social-google-outline.svg
+SHA1-Digest: LfleljtC4vIu66iHUa7ny9my2UU=
+
+Name: assets/www/lib/ionic/src/social-skype-outline.svg
+SHA1-Digest: tWUFlwkJWdtZN/kBWmkSh77+OxM=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: assets/www/lib/ionic/src/ios-flame-outline.svg
+SHA1-Digest: 3wOldmQXHSkKC0lUXrRc8PWWUtk=
+
+Name: assets/www/lib/ionic/src/network.svg
+SHA1-Digest: EkkfrYE0YwggUD+vhKSoZEkvMtg=
+
+Name: res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: amTHp+ttVms8n2SMceDC8FO0aqU=
+
+Name: assets/www/lib/ionic/src/jet.svg
+SHA1-Digest: 92MKrPRccMrwtbP0yaRz1XV6pdg=
+
+Name: assets/www/plugins/org.apache.cordova.network-information/www/Co
+ nnection.js
+SHA1-Digest: 3fU1awpwypgHcfMR1mvgoVTTcX0=
+
+Name: assets/www/lib/ionic/src/ios-star-half.svg
+SHA1-Digest: Vd1QEyddy01ZbS8AGgphKrPBZuo=
+
+Name: assets/www/lib/ionic/src/easel.svg
+SHA1-Digest: Uf2gQgcd/Y8sv9sFcbttKG+9EBM=
+
+Name: assets/www/lib/ionic/css/ionic.css
+SHA1-Digest: u5lCd9KQWCBfmFB6UxhQ+OdZRRo=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: OJp7su8VkCEvYmOSmm5RpLstx6g=
+
+Name: assets/www/lib/ionic/src/more.svg
+SHA1-Digest: XyiywgdPwfabcLkLf29hcwAhfPA=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_button_blue_focused.9.p
+ ng
+SHA1-Digest: 0mL9bvBnguGGZdnft4TaGoEw08Q=
+
+Name: assets/www/lib/ionic/js/angular/angular-resource.min.js
+SHA1-Digest: 5QWtM1AwhIXCAddENlP50nFEpDg=
+
+Name: assets/www/lib/ionic/src/ios-email-outline.svg
+SHA1-Digest: 5HLEzEbBwceiWpcVWOIcggjWz3s=
+
+Name: assets/www/lib/ionic/src/ios-gear.svg
+SHA1-Digest: Q4/1AlH8IlscvP4VwEDIE/w1+FM=
+
+Name: res/drawable-xxhdpi/ic_com_sina_weibo_sdk_login_button_with_fram
+ e_logo_pressed.png
+SHA1-Digest: fcK0EcXsP9nGTePBlmyqRp/ulY4=
+
+Name: assets/www/lib/ionic/src/android-done-all.svg
+SHA1-Digest: L4M8qPoXs2FD1X9fsv0F81Fphfs=
+
+Name: assets/www/lib/ionic/src/ios-monitor-outline.svg
+SHA1-Digest: f+u3rcwGrIgf905kcI4KHMoXx18=
+
+Name: assets/www/lib/ionic/src/android-notifications.svg
+SHA1-Digest: 1km74dSmtkrZve7Sgmy6veqCXEo=
+
+Name: assets/www/img/arrow4.png
+SHA1-Digest: wyFIopkx5LIbsVciwtWVlmeV0FQ=
+
+Name: lib/armeabi/libjpush171.so
+SHA1-Digest: mMfRngjPCUFWndwVWKCyNRCx7CY=
+
+Name: assets/www/img/mask.png
+SHA1-Digest: NRjGFwzCKVnHxjMeWzNyuSUapbg=
+
+Name: res/drawable/button_weibo.png
+SHA1-Digest: 2lDZlEwmD37UCw1fhb/sA8rqmys=
+
+Name: res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: nRtiU5b/2GCMrB/FhPJC0XFk+lU=
+
+Name: assets/www/lib/ionic/src/ios-upload-outline.svg
+SHA1-Digest: 8wMgvmL0wUCNK40+JYjFFZ63x2c=
+
+Name: assets/www/lib/ionic/src/social-twitch-outline.svg
+SHA1-Digest: zvs6i1twG5oS542o6zIPsSWxGJQ=
+
+Name: res/layout/abc_activity_chooser_view_include.xml
+SHA1-Digest: nxGPgkbxXkKKnhngIm7StHbWGc8=
+
+Name: assets/www/lib/ionic/src/arrow-graph-up-right.svg
+SHA1-Digest: pRWcYVyoGHE3w26eH0BKH/45SjQ=
+
+Name: assets/www/lib/ionic/src/minus.svg
+SHA1-Digest: oAK2N4uJowDgYgTrAbGbAnv9RPc=
+
+Name: res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: yCaREcRClKvfy+W1fr6uAiW78Qw=
+
+Name: assets/www/img/background/money.jpg
+SHA1-Digest: VQsMNt2oSiwvB2nelylH50J2AIo=
+
+Name: res/drawable-mdpi/index.png
+SHA1-Digest: bKY/BsOpBJeDGbCbb5M/j57KY70=
+
+Name: assets/www/lib/ionic/src/android-settings.svg
+SHA1-Digest: bJidaqRzFH+iCUV4ohyKrkZmgXE=
+
+Name: res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: Kt5Py8gmqS/Ew/Rs8Jsl2K4AdeM=
+
+Name: assets/www/lib/ionic/src/ios-monitor.svg
+SHA1-Digest: mKLty46bnkFCxPP4u5MZYNutWIg=
+
+Name: res/drawable/com_sina_weibo_sdk_button_blue.xml
+SHA1-Digest: FLHHkkt6l69kPqKqEfdNKbP38K8=
+
+Name: res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: pBR99OG39RSH5mvInfhWhS5HH80=
+
+Name: assets/www/lib/ionic/src/beer.svg
+SHA1-Digest: s1Uw/lAtaCn39Pl+5e9dCa6Nogs=
+
+Name: assets/www/lib/ionic/src/android-arrow-forward.svg
+SHA1-Digest: t1Ti4Kjd7V4BztNqlG92dJXeGFM=
+
+Name: assets/www/lib/ionic/src/ios-camera-outline.svg
+SHA1-Digest: cZkrpruPfrk8n5mZSMfIJF5AEBM=
+
+Name: assets/www/lib/ionic/src/android-microphone-off.svg
+SHA1-Digest: N3/ZmVhkMDJF+YMIKGyOknud5vk=
+
+Name: res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 6bGD4jGKEnE3B0EkCpW5Emm9up8=
+
+Name: assets/www/lib/ionic/css/ionic.min.css
+SHA1-Digest: iVOG7WIAF1xM3UE8o6/A4Wdzqys=
+
+Name: assets/www/lib/ionic/src/social-pinterest-outline.svg
+SHA1-Digest: M0AlYKrQR5fqijU8kFXgXgnW+TQ=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/LocalFileSystem.j
+ s
+SHA1-Digest: OXzRBSHsTSb29j8Zc6VHcSH2TqY=
+
+Name: assets/www/lib/ionic/src/ios-basketball-outline.svg
+SHA1-Digest: 2L+MAUtMIinhJkPDF7EhMEz5yj4=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_button_blue_focused.9.pn
+ g
+SHA1-Digest: rZf/vriiPguZZUS/3ww/w7LJ8fo=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_focused.png
+SHA1-Digest: nVXkZ3a70yfE4UIy7hwroFbqgDg=
+
+Name: res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: PqzD1Bva41x/4FJI5xe2uDeGmiE=
+
+Name: assets/www/lib/ionic/src/social-windows-outline.svg
+SHA1-Digest: eybTmPWNqMwDaGmh/b1nxurDwEU=
+
+Name: res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: MPK9TZpR5zmZ8sAT2LoQZ0lNLyo=
+
+Name: res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Liu4ZSvXVbRTfKfw/Sf1BCXStdc=
+
+Name: res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.pn
+ g
+SHA1-Digest: MxBGFm5KC9P3wVKLpmzmFoY/a6s=
+
+Name: assets/www/lib/ionic/scss/_modal.scss
+SHA1-Digest: 1lmrCPXOpJPKuYeNwDNv9UFk/Q4=
+
+Name: assets/www/lib/ionic/src/android-wifi.svg
+SHA1-Digest: UOQWYp8Lkn9bK6qtTH2Prmvy6RM=
+
+Name: assets/www/lib/ionic/src/code-download.svg
+SHA1-Digest: PuDRnd/5wXP3T3w4uIWLfAyulSA=
+
+Name: res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: l8EI8skn68wNTc/ak4rIUV30BMw=
+
+Name: assets/www/lib/ionic/scss/_transitions.scss
+SHA1-Digest: rD5KXaQF1U5mNFoRYCJQXBqt6U8=
+
+Name: assets/www/lib/ionic/src/android-alarm-clock.svg
+SHA1-Digest: IVtriilribklFhon5uDJbS4OLVY=
+
+Name: assets/www/lib/ionic/src/battery-empty.svg
+SHA1-Digest: CQgFfpC5R1408wXt87u9nEFMO4c=
+
+Name: assets/www/lib/ionic/src/android-warning.svg
+SHA1-Digest: YzJtD5B8Hj96geO0pOHjNK0pJU0=
+
+Name: assets/www/lib/ionic/src/ios-heart.svg
+SHA1-Digest: AJKWZjy+3+vlzTLZapFC64+HOWU=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-font.scss
+SHA1-Digest: y9qlILIxqbvWkCEBvVXC0yaEGuY=
+
+Name: assets/www/lib/ionic/src/social-vimeo.svg
+SHA1-Digest: IZk+kQUeQViW3vcrRaFWYchqwB8=
+
+Name: assets/www/lib/ionic/src/ios-medical-outline.svg
+SHA1-Digest: n97XYOV8c7L79qU4ZksxKIXoEoM=
+
+Name: assets/www/lib/ionic/src/folder.svg
+SHA1-Digest: jzYPnVxEuTLPzYQVEkDwxLWCLJk=
+
+Name: assets/www/lib/ionic/src/minus-round.svg
+SHA1-Digest: CsRz/eaABKT3C4iJe083pH4l3MA=
+
+Name: assets/www/html/msg/list.html
+SHA1-Digest: Ouxxgsi91lCGxFiKfxQkW2NZr5U=
+
+Name: assets/www/lib/ionic/src/ios-copy.svg
+SHA1-Digest: efnwe9Pypwn8tK/JFlsU6541fCI=
+
+Name: assets/www/lib/ionic/src/ios-moon.svg
+SHA1-Digest: reNc0ZfvfKUdgH7eQoStQEy+XL8=
+
+Name: assets/www/lib/ionic/src/social-html5.svg
+SHA1-Digest: jfF3EZPPXseF29wNtpeDH6IAcmo=
+
+Name: res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: bFdE56QD5zmKc1Kcyk6zx1kaG40=
+
+Name: res/drawable-xxhdpi/ic_action_remove.png
+SHA1-Digest: GbOqf2Yga6qVAxaA3ec35ac0Yio=
+
+Name: assets/www/img/tab2-a.png
+SHA1-Digest: jJMfG7L/cSgH2Xw6Sma9Vx2uCj4=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: Od41Vbs2Wy/VOmdu8IeRxNL8ocU=
+
+Name: assets/www/lib/ionic/src/forward.svg
+SHA1-Digest: hHrBhlqmdjFlzKPXntvLb4LXpCE=
+
+Name: assets/www/lib/ionic/src/ios-mic.svg
+SHA1-Digest: qp+vaUTr6PUSodezya/K4DuoVaM=
+
+Name: assets/www/img/company/fdc/shimao.png
+SHA1-Digest: +0y/CRh6hOLAhl+HD0CLI+xDSgM=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/fileSystemPaths.j
+ s
+SHA1-Digest: fFmezgVuxL5AIpsUpleVhnd2K3Y=
+
+Name: assets/www/img/company/jr/pingan.png
+SHA1-Digest: T5hOG2WOUR4yywAbwe7b0fOhEvI=
+
+Name: assets/www/lib/ionic/src/android-car.svg
+SHA1-Digest: NICSZKk87+FZmD0P3DWopSrMW6U=
+
+Name: assets/www/lib/ionic/src/ios-crop.svg
+SHA1-Digest: CspWKXjN3SuXg1HnpK5MBIRtOfA=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: AehT2bDXm41D+5aiUXJV2znpdOc=
+
+Name: assets/www/lib/ionic/src/social-windows.svg
+SHA1-Digest: BrjLh154wPrwezEumnDkfbQOrEI=
+
+Name: assets/www/lib/ionic/src/plus.svg
+SHA1-Digest: HE3YfUtvDlYfl7pwGZyTJikpgQ0=
+
+Name: assets/www/lib/ionic/src/close-circled.svg
+SHA1-Digest: FCWBaxkgOd+WPabTyZgA9FiNI6c=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sferError.js
+SHA1-Digest: b10cuLvwFtGnyb0d1DnHl1qdAm4=
+
+Name: assets/www/lib/ionic/src/ios-compose.svg
+SHA1-Digest: ydgBilBKqyM7Rzd/CW+jMpleisI=
+
+Name: assets/www/lib/ionic/src/android-download.svg
+SHA1-Digest: qf7VJwBqumais58lv/133WMK5q8=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_button_grey_normal.9.pn
+ g
+SHA1-Digest: ObpXSA4NH1YwVj8ZgzYz74kaDfE=
+
+Name: assets/background.9.png
+SHA1-Digest: M3YQ4bymCLlirCApFCkEMdWdqrA=
+
+Name: assets/www/lib/ionic/src/social-html5-outline.svg
+SHA1-Digest: i8OwvC2Wnzn9EaBNyOi/38+rYZ8=
+
+Name: assets/www/lib/ionic/src/ios-body-outline.svg
+SHA1-Digest: RFIGU2RggpqJfAJ5tdoVHZ31fTY=
+
+Name: assets/www/img/tab3-a.png
+SHA1-Digest: piNOXp0yiN2EGqmT3EarKiCBpL4=
+
+Name: assets/www/lib/ionic/src/asterisk.svg
+SHA1-Digest: 96sWrrOQyC1dnydkWpZKmCy44xo=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_button_blue_normal.9.pn
+ g
+SHA1-Digest: nqGHiPOhSaIXmMVgJ9Ux7JqUxEk=
+
+Name: assets/www/lib/ionic/src/arrow-left-a.svg
+SHA1-Digest: jBbXCwVg5c3V4r0ztk6hA2yzuL0=
+
+Name: assets/www/lib/ionic/js/angular-ui/angular-ui-router.js
+SHA1-Digest: sHhRsg9GlW5Ep7ISYDJSdvjm4n4=
+
+Name: assets/www/lib/ionic/src/ribbon-b.svg
+SHA1-Digest: Wg2G3PekggIWQgaYbeDqVOoue/M=
+
+Name: assets/www/lib/ionic/src/usb.svg
+SHA1-Digest: cnhecCRw0BRBmQNPdTsg6z+i5Vo=
+
+Name: assets/www/lib/ionic/scss/_tabs.scss
+SHA1-Digest: nDtAKt3PkLcETLTKaO/OGo0Pp7U=
+
+Name: assets/www/lib/ionic/src/ios-cloudy-night-outline.svg
+SHA1-Digest: 7U9QxLMN5eBcc6Kn/w38otHDs00=
+
+Name: assets/www/lib/ionic/src/ios-timer.svg
+SHA1-Digest: /e1ySO9jRdNVoxgxlC0ZURXchZo=
+
+Name: assets/www/lib/ionic/src/android-radio-button-off.svg
+SHA1-Digest: Nu5kX3mg8yI3wJ4QqP6AEKwCi98=
+
+Name: assets/www/lib/ionic/src/social-bitcoin-outline.svg
+SHA1-Digest: jBg1s216ydToL4knG+U0SWc4F0g=
+
+Name: assets/www/lib/ionic/scss/_bar.scss
+SHA1-Digest: sq+yfxjB43nr71lEcMZjLn5d0kI=
+
+Name: assets/www/lib/ionic/scss/_grid.scss
+SHA1-Digest: 8kQS0Yg+LXkbEni6XYpoLt5a+As=
+
+Name: assets/www/lib/ionic/src/ios-pricetags-outline.svg
+SHA1-Digest: vxddMOOjsYUesOCrBCjYB81vIz4=
+
+Name: assets/www/lib/ionic/src/skip-backward.svg
+SHA1-Digest: nqFB4EG1q3UyGc6laFH7ZqJNsOc=
+
+Name: assets/www/lib/ionic/src/social-buffer.svg
+SHA1-Digest: WWgXxp5M2ZGMD93Bnawm5RW21Lw=
+
+Name: assets/www/lib/ionic/src/bag.svg
+SHA1-Digest: 8AO4dgwNPjL3H92AcODD+I7rFAE=
+
+Name: assets/www/lib/ionic/src/ios-photos.svg
+SHA1-Digest: JEgNQDbOm9C6VecI/iMO0eSjwzA=
+
+Name: assets/www/lib/ionic/src/ios-pause.svg
+SHA1-Digest: Bu3lrE5ezHLFAiFFofORjoGrQSM=
+
+Name: assets/www/lib/ionic/src/star.svg
+SHA1-Digest: +mpyI2ysA7nMDPbluVpG2CEuSCo=
+
+Name: assets/www/lib/ionic/src/ios-grid-view.svg
+SHA1-Digest: Or1Qk0gE7BzaIOvPCH74Ktoq2BU=
+
+Name: assets/www/lib/ionic/src/android-document.svg
+SHA1-Digest: iG+QVhDLw6prkF837PI7fsv58xU=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_logo.png
+SHA1-Digest: Fb+FDdDDw04M2AhGxvNNiCsKOEs=
+
+Name: assets/www/lib/ionic/scss/_type.scss
+SHA1-Digest: np4ubudRt+5Ece8O31YOq1tjtfU=
+
+Name: assets/www/lib/ionic/src/social-buffer-outline.svg
+SHA1-Digest: 9iQyq/36GPoyXx7u68XVEFLNK0M=
+
+Name: res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: DK56Y6UjLNHOo/ha0XddWTzD+NE=
+
+Name: assets/www/lib/ionic/src/ios-locked-outline.svg
+SHA1-Digest: 34M7Rsa2EGEW3NDSyoVzNxwT2wE=
+
+Name: assets/www/lib/ionic/src/ios-pricetag.svg
+SHA1-Digest: FNYpa3Xlnq8ABvxDfYNKpfnOleQ=
+
+Name: assets/www/lib/ionic/src/ios-infinite.svg
+SHA1-Digest: UcbQEtShBGayHJGAFeX6ZBVzT20=
+
+Name: assets/www/lib/ionic/scss/_slide-box.scss
+SHA1-Digest: a61k8LGG6YGKUogwReosGBkbgTo=
+
+Name: assets/www/lib/ionic/src/checkmark.svg
+SHA1-Digest: 5ROJIIEu3OBQ5bIBBrb/JFCoHR4=
+
+Name: assets/www/lib/ionic/src/android-desktop.svg
+SHA1-Digest: iGdjD7pLTsYIDWMpZ/yc0ngL64E=
+
+Name: assets/www/lib/ionic/src/ios-information.svg
+SHA1-Digest: SkwFkQnQ1plLGsP+Hu3x3RF5a8g=
+
+Name: res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: J2pilR+XBdoozroL2lhGQl9yuMg=
+
+Name: assets/www/lib/ionic/src/chatboxes.svg
+SHA1-Digest: 2OUKKLj4Y7H4W0JHnd1shVzbgq0=
+
+Name: res/drawable-mdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: /uU9+qqC9MjC0cwR3L+DskCy9xM=
+
+Name: assets/www/lib/ionic/src/social-android.svg
+SHA1-Digest: V1b0pCtyYj5fYN2P6N6GpmQOH5s=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: 2WnRK8Yl3WbFpO2CvY3gO+9x6JA=
+
+Name: assets/www/lib/ionic/src/android-globe.svg
+SHA1-Digest: QEillcW9Y0JhYXCyv591w17uCoU=
+
+Name: assets/www/lib/ionic/src/no-smoking.svg
+SHA1-Digest: lb0Te2dKz7GMXERbUt/ePiPeQpA=
+
+Name: assets/www/html/usr/contact.html
+SHA1-Digest: ZB0beabKYFUlgxPTrApiP5+0H54=
+
+Name: assets/www/lib/ionic/src/ios-help-empty.svg
+SHA1-Digest: pVrEr/8TwqTTEb7v0QMxAolAX7E=
+
+Name: res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: CoBYyaHGiMgtJYNEGsJMBx5zpx8=
+
+Name: assets/www/lib/ionic/src/coffee.svg
+SHA1-Digest: jKsZHw8Supz3cc6V8v9jSAVnVhY=
+
+Name: res/drawable-hdpi/abc_list_focused_holo.9.png
+SHA1-Digest: iZ2QqYCoQEmMGGOg2+XZ3jNssnA=
+
+Name: assets/www/lib/ionic/src/android-happy.svg
+SHA1-Digest: gwQDgaSh6z8chEzCUZKM3HMZSSs=
+
+Name: assets/www/lib/ionic/src/ios-contact.svg
+SHA1-Digest: BbGSu6XFpKKJDeO5VAuR3p9OY+w=
+
+Name: res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA1-Digest: a1Q5CSQmJDcB2f/Tb7lm44tUa90=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadOptions
+ .js
+SHA1-Digest: LLask/31czIhUqxzVULkUIwoyKQ=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: 8CY6G9DzrelvTDgC4MLrjsWgZWI=
+
+Name: assets/www/lib/ionic/src/arrow-return-left.svg
+SHA1-Digest: VRehU++/li5t1++LrxfUHQikk5Y=
+
+Name: assets/www/lib/ionic/src/ios-speedometer-outline.svg
+SHA1-Digest: inttPEmQqAAmsjDlhGm9WTr4RTk=
+
+Name: assets/www/lib/ionic/src/settings.svg
+SHA1-Digest: EWf2VCDcaod+kYGDer9xtJMXAF8=
+
+Name: assets/www/lib/ionic/src/ios-location-outline.svg
+SHA1-Digest: GYCpPS7aKj9q4XgsC5r8JlsLzTQ=
+
+Name: res/drawable-hdpi/ic_action_previous_item.png
+SHA1-Digest: 22hOl4hxhbk+vXL5yh1q/sikcuo=
+
+Name: assets/www/lib/ionic/src/ionic.svg
+SHA1-Digest: u3qXHEekCG0eL7JGbEDTXdw3IEw=
+
+Name: assets/www/lib/ionic/src/ios-tennisball-outline.svg
+SHA1-Digest: cSxdNxmaDzlVTsLFgfAHS42gCLA=
+
+Name: assets/drawable-xhdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: lkSRJVEzrfjHQeB0uyyolAgJTTM=
+
+Name: assets/www/lib/ionic/src/ios-briefcase-outline.svg
+SHA1-Digest: AmtRBDg00pt+gjumrI5OxcmxFoE=
+
+Name: res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: NhV2sZqVWW5UUoJmNFGXO3uM/A4=
+
+Name: assets/www/lib/ionic/src/reply-all.svg
+SHA1-Digest: nHAZ2F8q0+J8yXTMXuyESZyins0=
+
+Name: res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: bdOfP63AGbg06couDLmoOFjzBQE=
+
+Name: assets/www/lib/ionic/src/navicon-round.svg
+SHA1-Digest: V11z0Y8YPTfj1kLn75C7MRMtjBw=
+
+Name: assets/www/lib/ionic/src/sad.svg
+SHA1-Digest: /ZaIrBN/Vj5D7p/NKCWaO6VshiM=
+
+Name: res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: us0pWySW2GIY3S+NSDKvwrFxDcg=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_button_grey_focused.9.pn
+ g
+SHA1-Digest: xw3C3hxhbAqRc7fZEiHwllptNuM=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileError.js
+SHA1-Digest: PeZ8ZcVk1t40ofTgylaIY0pdv4Y=
+
+Name: assets/www/lib/ionic/src/social-usd.svg
+SHA1-Digest: SOKEPeVqVPbyC4mYGrkP7yXKXhM=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: pxxMHwS6AZpM+jSiaFnfxzt/Tus=
+
+Name: res/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: 9z8j5Cs7oWqrnMDir6n6y7hCoVw=
+
+Name: assets/www/lib/ionic/src/ios-flag-outline.svg
+SHA1-Digest: hWb1Gu/gwgK0uI4vqhxltgqVscY=
+
+Name: assets/www/lib/ionic/src/ios-toggle-outline.svg
+SHA1-Digest: htQUPJEDVaydtrp9FMJ6+XGR77I=
+
+Name: assets/www/lib/ionic/src/ios-thunderstorm.svg
+SHA1-Digest: K0c8eiHkl4jbXq/dSJp8iPENMp4=
+
+Name: assets/www/lib/ionic/src/social-linkedin.svg
+SHA1-Digest: zGcYGqJXKvKv5F2AWqSIyMThuPQ=
+
+Name: assets/www/lib/ionic/src/heart.svg
+SHA1-Digest: /jgSO3Te00hmRyZtVLkP/RY4hxE=
+
+Name: assets/www/lib/ionic/src/pizza.svg
+SHA1-Digest: vDy/V7aX03BU2YonxQuST8gue6A=
+
+Name: assets/www/plugins/com.ionic.keyboard/www/keyboard.js
+SHA1-Digest: P9726nDoYH4cBB5fTVdOd/L7KH4=
+
+Name: res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: Xnip1IsSS+M7kfilxxxK1jLQye8=
+
+Name: assets/www/lib/ionic/src/android-contacts.svg
+SHA1-Digest: X7P2KgWn2fUlv9us7b9UjmKCCWQ=
+
+Name: assets/www/lib/ionic/src/ios-shuffle.svg
+SHA1-Digest: fs/lBKwFQdwSiyvMxZnk+rbIqhQ=
+
+Name: res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: v0iWBlI5czWXCEaTRPjNNmieAL8=
+
+Name: assets/www/img/arrow.png
+SHA1-Digest: DtvsCI4BpiN2rp26FXN0lWmoWWU=
+
+Name: assets/www/lib/ionic/src/ios-albums-outline.svg
+SHA1-Digest: IjDuUJE/qqgbYcfuNk25kVmYP/Q=
+
+Name: assets/www/plugins/xu.li.cordova.wechat/www/wechat.js
+SHA1-Digest: +k55I5FiQdXZcn/J6mHgn0hKGEc=
+
+Name: res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: ofI9nzE08OaCOIP3AVHuxWg/9QQ=
+
+Name: res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 8jYMnyqydzQgNxHu6O7XD182qPE=
+
+Name: assets/www/lib/ionic/src/ios-folder-outline.svg
+SHA1-Digest: 4x1xCuAdddjRw3vRBDiacIZPYSE=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js
+SHA1-Digest: S9Kv13l5mvEpUrxldpTFXfmgdNM=
+
+Name: res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: HzCzes9Dksq/txQ55lZ1pLRlrKk=
+
+Name: assets/www/lib/ionic/src/ios-cart.svg
+SHA1-Digest: 0LXXT6prP/uzUUxgWH7qSpsqKZE=
+
+Name: assets/www/lib/ionic/src/arrow-left-b.svg
+SHA1-Digest: n84IZSGCq7cGeHX27h8uaz54+F4=
+
+Name: assets/www/lib/ionic/src/planet.svg
+SHA1-Digest: 8K4c3F1eFNEPkCrS95HH9OrlqHY=
+
+Name: res/drawable/button_linkedin.png
+SHA1-Digest: GjqWiEkI0W1UtGdS6n+C/d/AlRI=
+
+Name: assets/www/lib/ionic/src/checkmark-round.svg
+SHA1-Digest: 7H+5QBShjclvxl+jL6XX2Xr31r0=
+
+Name: assets/www/lib/ionic/src/social-wordpress-outline.svg
+SHA1-Digest: O0jsy2Tr57tfDA1dBHoBEY133r8=
+
+Name: assets/www/lib/ionic/src/android-calendar.svg
+SHA1-Digest: IfB5wyMvdjv/hvpQM3Xg1y3Oxz0=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: s4uIGxiw82Eldwc4SK5gHwRLmgU=
+
+Name: assets/www/lib/ionic/src/android-expand.svg
+SHA1-Digest: Vi+fvSkmurC+dTeb/Krmv04CPsE=
+
+Name: assets/www/lib/ionic/src/android-refresh.svg
+SHA1-Digest: cf9qRWK4jjgdYKfhvhpCgP/CYts=
+
+Name: assets/www/lib/ionic/src/android-textsms.svg
+SHA1-Digest: 7+K4WaP3pkZRbtmgCLKRNPQeiPs=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: E6FjeDY0y0kiKjg/iJvh3YgjiKk=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: assets/www/lib/ionic/src/ios-cog.svg
+SHA1-Digest: UaC+RDFsH7BfogG7Ex1DSFcuggA=
+
+Name: assets/www/img/background/city.png
+SHA1-Digest: ZnXmPa5mz1qSRdxFSYQ9BQTgsrQ=
+
+Name: assets/www/lib/ionic/src/ios-partlysunny.svg
+SHA1-Digest: qGfSt08uPgolCcjFhVs5lBKouU8=
+
+Name: assets/www/lib/ionic/src/pause.svg
+SHA1-Digest: 5gYN4RIkn9w+1l170LmONxI9mrk=
+
+Name: assets/www/img/arrow1.png
+SHA1-Digest: RDsk82LluW8+RFfGjzUxbGDVOUI=
+
+Name: assets/www/lib/ionic/src/ios-briefcase.svg
+SHA1-Digest: 3+0rocGOEOc54FqPGvD+ezfApoo=
+
+Name: assets/www/lib/ionic/src/social-dribbble-outline.svg
+SHA1-Digest: JHdD+42wYo6IXGuBEGAQjf8kFfk=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: 9cXqVsTQYdooTb4KvLJNs6d2zu0=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: WJwxXYQHl6QWDka2O1BvIEtMjAQ=
+
+Name: res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: Z3dFjGHYcHakJ+rsXxrbx3TMQo0=
+
+Name: assets/www/lib/ionic/src/ios-circle-outline.svg
+SHA1-Digest: pfAk6BqP/SxLVJXqajWL75hQgeE=
+
+Name: assets/www/lib/ionic/src/android-share.svg
+SHA1-Digest: 4LAjfrcdhDbYiPWfjPNDML4VyJQ=
+
+Name: res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jniuuw+ps9CtTIC7MeCedJBG1rs=
+
+Name: assets/www/lib/ionic/src/camera.svg
+SHA1-Digest: 5Quz73YeZiFO5xnY00pzGRXYm24=
+
+Name: assets/www/lib/ionic/fonts/ionicons.woff
+SHA1-Digest: 5GgZ6GOkZ1HWIsEZDE6Kg+vCBhI=
+
+Name: res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: AtZlUN7jx2bYJoJuLbqFNbB7cOI=
+
+Name: assets/www/lib/ionic/src/ios-home.svg
+SHA1-Digest: ZmvoF/nK98i6fV4fhEedO3CA0O0=
+
+Name: assets/www/lib/ionic/src/ios-nutrition.svg
+SHA1-Digest: 2z2UWoxvpx9TNhYPJex1cigD3xI=
+
+Name: assets/www/lib/ionic/src/ios-personadd-outline.svg
+SHA1-Digest: 4PWk5L42JQOPI9mjXdw+5xsIWw4=
+
+Name: res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: wEQSSdddkTKvyi4DyBZS5f33czk=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: 43CFSZrA4bH7N3aQHkhCueTKX6M=
+
+Name: assets/www/js/sql.js
+SHA1-Digest: vgLffGDnlbIOQnH5Z8gQi5Fnb0Y=
+
+Name: res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: QZ9FkSY1uLrLNUoYvFP8D6yQGLQ=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: assets/www/lib/ionic/src/android-remove-circle.svg
+SHA1-Digest: 2MjPqTz1M4wT/vWThcnKHPRL3R0=
+
+Name: assets/www/lib/ionic/src/ios-world-outline.svg
+SHA1-Digest: INewNAQneDozNVV/wupsUcz/eOc=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ normal.png
+SHA1-Digest: DF28Oqpg+a/M7GbOoW8m8pyhfmk=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_login_with_account_text
+ _pressed.png
+SHA1-Digest: ClNW2g0CPMygeYlCm7cq8AhmT5g=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropup.svg
+SHA1-Digest: 1pqjLaqoNc7lKjxDcqQfv07CFww=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_button_blue_normal.9.png
+SHA1-Digest: t/q1ll8cIcWlFuKff/cUYYaKKw0=
+
+Name: assets/www/lib/ionic/src/android-lock.svg
+SHA1-Digest: O17v8AZDxBZepp+OzSb3k5h4y1I=
+
+Name: assets/www/lib/ionic/src/ios-tennisball.svg
+SHA1-Digest: 7JicbYbsdiTW1RWR96YkAhK/IoM=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ normal.png
+SHA1-Digest: q4BWQlc14MlQoMjzen7LSMI5NsA=
+
+Name: assets/www/lib/ionic/src/ios-email.svg
+SHA1-Digest: 6oGEj7VQbA6bLkyw1lPcSh8ngd8=
+
+Name: assets/www/lib/ionic/src/android-mail.svg
+SHA1-Digest: n7cwdigfNOgiC9Op+WBKi2DZyFo=
+
+Name: assets/www/lib/ionic/src/android-add.svg
+SHA1-Digest: 5bBCM5ncxnvgE7qYcvOyPPVD+xg=
+
+Name: assets/www/lib/ionic/src/social-dropbox-outline.svg
+SHA1-Digest: ztv2QDaFuHEaijrng6tGvKy6KcY=
+
+Name: res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: N4pxrY//CzQeTPqMUlApq1xAKjk=
+
+Name: assets/www/lib/ionic/src/android-drafts.svg
+SHA1-Digest: njwsn3WLDVwbBDWbZFE8m1wb2gM=
+
+Name: res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 53DYKltMU34zhaYZHtlNZkme+Co=
+
+Name: assets/www/lib/ionic/src/person-stalker.svg
+SHA1-Digest: +/TAOzk/F86NUr1GpqdpG2onfXI=
+
+Name: assets/www/lib/ionic/src/steam.svg
+SHA1-Digest: yO3+3XE7lMXjRNsM5myedD3WJe4=
+
+Name: assets/www/lib/ionic/src/alert-circled.svg
+SHA1-Digest: J2g1mMBaXrd/+V/Z+07MeKgvqbQ=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8pvrUMgikaLGOMW8rQ65pwo3A2E=
+
+Name: assets/www/lib/ionic/src/ios-keypad.svg
+SHA1-Digest: pO+WTxntXs++izOIYzyEsaoJXJs=
+
+Name: res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: sSo2eVyCVNeDBah+XyDsR3c+eao=
+
+Name: assets/www/lib/ionic/src/social-facebook-outline.svg
+SHA1-Digest: sCgtWHWSNtnS5kJU2j9IuSn3XQw=
+
+Name: res/drawable-mdpi/button_qq.png
+SHA1-Digest: RpX9sDLBzUF+e7kgwaLgBvYQO9o=
+
+Name: assets/www/lib/ionic/src/contrast.svg
+SHA1-Digest: 7nTeR9+qE0QXgTqtxGXYsh7mfUg=
+
+Name: assets/www/lib/ionic/src/iphone.svg
+SHA1-Digest: N+qK0ZC7VEPtRlQPOGPuL5vYRSo=
+
+Name: assets/www/lib/ionic/src/ios-unlocked-outline.svg
+SHA1-Digest: c+W7AxGtT8x80GQEwP6n7byDTBQ=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: assets/www/lib/ionic/src/document-text.svg
+SHA1-Digest: HuzAxrioQ3j+O2LysWlXjYs37RY=
+
+Name: res/drawable-xxhdpi/ic_action_next_item.png
+SHA1-Digest: c25EZH3BjQyHSy++YinAPl3kQmE=
+
+Name: assets/www/lib/ionic/src/magnet.svg
+SHA1-Digest: zH0Zd3Z1vGTs0uxvAv5ZPq6rnTU=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: qMusFEHLxtyIRFZqZhmVkdXijqQ=
+
+Name: assets/www/lib/ionic/src/ios-barcode-outline.svg
+SHA1-Digest: hZdxn4vF8GE0VJUfOwDJIGCveBE=
+
+Name: assets/www/lib/ionic/src/ios-box.svg
+SHA1-Digest: Soo4nO8MdlIiEciubDuIIgFciQk=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_login_with_text.png
+SHA1-Digest: pgEjQRoFyZ9qgfOLQR8Yk6+chBA=
+
+Name: assets/www/lib/ionic/src/android-funnel.svg
+SHA1-Digest: cwlu5Jl9kdh35m1u0AhG2tO6R9s=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: ce6ycEiLCGlLMEFPjBAnZoOVMo0=
+
+Name: assets/www/lib/ionic/src/chatbubble-working.svg
+SHA1-Digest: PDSpfYSM/4V4Iz4TCFF9+CYJGzs=
+
+Name: res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: TGHVlpw1mq1IC2cB7ulwjQ18wdc=
+
+Name: res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: MUjAjp0AVPdujGiqFCaiqYO6Npk=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_button_with_frame_
+ logo_normal.png
+SHA1-Digest: 6JUszSEH9mdkHbkTU8VpAgsVufA=
+
+Name: assets/www/lib/ionic/src/person.svg
+SHA1-Digest: FHm9C2uboGlSaE5SO7LtHrQWnt4=
+
+Name: assets/www/lib/ionic/src/arrow-left-c.svg
+SHA1-Digest: Bwr/PN4aEHfKBVTdOVu7xj1qbCk=
+
+Name: assets/www/lib/ionic/src/loop.svg
+SHA1-Digest: 9BxzIvPrt67mKbWTXeWn5wNhTiQ=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: assets/www/lib/ionic/src/nuclear.svg
+SHA1-Digest: 8EKb+gp8e+dF9itkMydfTxmOe58=
+
+Name: assets/www/lib/ionic/src/arrow-swap.svg
+SHA1-Digest: I5RhE6GLztFDLi6pfj8HKojlCG8=
+
+Name: assets/www/html/menus.html
+SHA1-Digest: zsa1893D8xpdZKmBrWLwC+adHtY=
+
+Name: assets/www/lib/ionic/src/arrow-move.svg
+SHA1-Digest: MHLslUhZI/oKjpqQITXQjmXJJ9E=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: OTVZiKNRCnN1C/tBUHEiTdgESvA=
+
+Name: res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: B2lrq59ceWSScBSmS9jWbsumcUo=
+
+Name: assets/www/lib/ionic/src/grid.svg
+SHA1-Digest: JAlYk+jTkOuhJt6q5b7zX7rzmG4=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_button_grey_focused.9.p
+ ng
+SHA1-Digest: wx0FTcs+RGcIb3fC9wYKpWawDgI=
+
+Name: assets/www/img/arrow2.png
+SHA1-Digest: c1/B0hjwSC6+ZcPdOzJgIOgFKQQ=
+
+Name: res/drawable-ldpi/button_wx.png
+SHA1-Digest: v5AhbDvxt55eQwSVUxW3h95UKrc=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropright-circle.svg
+SHA1-Digest: D0Ozzlb1riuV1YdJE8QE6tivVMg=
+
+Name: assets/www/lib/ionic/src/ios-plus-outline.svg
+SHA1-Digest: lM7jS3x/0avnSrTLpVZ5GcIB1bw=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: 6ga3ohDAgjszm8vt3QE6o48ucng=
+
+Name: res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: PHIVKegTarKE3nvFkh1Q0xzaeqk=
+
+Name: assets/www/lib/ionic/src/scissors.svg
+SHA1-Digest: d7MYuUhFzfHJfuxMe+68LY1+Wnk=
+
+Name: assets/www/lib/ionic/src/android-plane.svg
+SHA1-Digest: bjo4fqHs0fNWMOGFEzshp0S4lAE=
+
+Name: assets/www/lib/ionic/src/volume-mute.svg
+SHA1-Digest: 8C6QhuxKg0xN/dArnZYihWhEN7A=
+
+Name: assets/www/lib/ionic/src/location.svg
+SHA1-Digest: G/3oQuj07CuGoNsFk6OMa4oCX8c=
+
+Name: assets/www/lib/ionic/src/eject.svg
+SHA1-Digest: UqygiHc9adjkNxUUWerguTccbYQ=
+
+Name: assets/www/lib/ionic/src/power.svg
+SHA1-Digest: rJs59efDBHvcD1xFujgGlh+nO7c=
+
+Name: res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: QHJrTKnGAS7xrsv3f4q+dcGKg1g=
+
+Name: assets/www/lib/ionic/src/ios-help.svg
+SHA1-Digest: LY+ROt+S54SVpy6wUavoLZSnQS0=
+
+Name: assets/www/lib/ionic/src/map.svg
+SHA1-Digest: sLH8e4Mr4tRSPj2n0m5idWH0Sd0=
+
+Name: assets/www/lib/ionic/src/navigate.svg
+SHA1-Digest: JRUDs50C3vZSWjhWA8XW4Rich10=
+
+Name: assets/www/lib/ionic/src/ios-arrow-right.svg
+SHA1-Digest: nJXGslZtr8xWMULrz03MuRdYbG4=
+
+Name: res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 0WfbJH3/Ad2VjJcGCB/iRzpk5Cc=
+
+Name: assets/www/lib/ionic/src/flame.svg
+SHA1-Digest: uXIXUtqAtTyayN24J9tYNMPpeG0=
+
+Name: assets/www/lib/ionic/src/ios-game-controller-b-outline.svg
+SHA1-Digest: aJXJBHNqoL0EkBGLk1slrorLkwE=
+
+Name: assets/www/lib/ionic/src/android-arrow-dropright.svg
+SHA1-Digest: xmsnPCcjNUOX0WsOBxgzLW5M9uk=
+
+Name: assets/www/lib/ionic/src/android-archive.svg
+SHA1-Digest: uy9sEXWpzKSf/+e62UM6iMWTR7Y=
+
+Name: assets/www/lib/ionic/src/android-phone-portrait.svg
+SHA1-Digest: OWUJW1UuCV+2XcDmN8kKwIq97f4=
+
+Name: assets/www/lib/ionic/scss/_list.scss
+SHA1-Digest: LPIPO7bNt+cGw1YW7wVuXx2dtGk=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: v7gs0XRNUrSHtxv0K1lSFESLXsw=
+
+Name: assets/www/lib/ionic/src/ios-glasses-outline.svg
+SHA1-Digest: B9OIzSraOS8bWXXaUfgot2P2EkE=
+
+Name: assets/www/lib/ionic/src/ios-rose.svg
+SHA1-Digest: OkpU8bi/EVTnBwQhFTuHAA7/6zc=
+
+Name: assets/www/lib/ionic/src/arrow-up-b.svg
+SHA1-Digest: 9pXoEEE23IlDL9bmy/xDOzzQISo=
+
+Name: assets/www/lib/ionic/src/information-circled.svg
+SHA1-Digest: CHYvGOClfRr69EklumBQNiSnHC8=
+
+Name: res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: Vk3BADiZcfbl7tUqgxcQgtpyKsk=
+
+Name: assets/www/img/icomoon.eot
+SHA1-Digest: 7dJS2ZMt03o4FAulQ5Qq9DzLmRs=
+
+Name: assets/www/lib/ionic/src/android-attach.svg
+SHA1-Digest: bfURZV26gshF5+4FkTpD3Lh/fHU=
+
+Name: assets/www/lib/ionic/src/happy-outline.svg
+SHA1-Digest: PlmbX6iPRFTfxuCiT+pt0YmSYf0=
+
+Name: res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: F5P0P5x15oLSQ50Yn8x7hPMmw78=
+
+Name: assets/www/lib/ionic/src/android-cloud-outline.svg
+SHA1-Digest: Yue/tTpXF/vZedL4An3u132upaE=
+
+Name: assets/www/lib/ionic/src/social-tumblr.svg
+SHA1-Digest: TqpMS2KUDMRRf6jAmnwh36l4M1o=
+
+Name: res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ejUHf+Zq02w7OdVBf+PoNjou6Xc=
+
+Name: assets/www/lib/ionic/src/link.svg
+SHA1-Digest: aEveE2HMgn0PJnoZCygiEjrCeeI=
+
+Name: assets/www/lib/ionic/src/ios-paperplane.svg
+SHA1-Digest: PNrDqvJnwNlBf80kE35pOKMAdQs=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_logo.png
+SHA1-Digest: 6CHCnAjct2Iee/O/0QTBnLde8lI=
+
+Name: assets/www/img/default-avatar.png
+SHA1-Digest: 7NbyeGm1blv/VFARYOUuMyjkFcI=
+
+Name: res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: rtSUS00JLWjJ4+bLZjSssV3d2wg=
+
+Name: assets/www/lib/ionic/src/ios-bookmarks-outline.svg
+SHA1-Digest: wttz/zNZjTTLTZhlrTz/XUWj7k4=
+
+Name: assets/www/lib/ionic/src/android-favorite.svg
+SHA1-Digest: YlEdL4mGaoZt9HW0hcSc1qvglgI=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: kUwyQX5ChQAHjCgy5YU7WlYKS5s=
+
+Name: assets/www/img/uc_avatar_masker_32.png
+SHA1-Digest: rw/EqXyM2xiYCBYiusT71zTpOU4=
+
+Name: assets/www/lib/ionic/src/ios-checkmark-empty.svg
+SHA1-Digest: yweRpAWhzmqn0SGPPO8nhFr0OsE=
+
+Name: assets/www/lib/ionic/scss/_range.scss
+SHA1-Digest: kFseO6OsdGJcX0xTWDKsiuLeeOs=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileReader.js
+SHA1-Digest: en+sXlarkWCDSDDHK4SiUdSzzok=
+
+Name: assets/www/plugins/org.apache.cordova.inappbrowser/www/inappbrow
+ ser.js
+SHA1-Digest: Zdmxbpi1P5LZUQ25F9dLajwW/h4=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Entry.js
+SHA1-Digest: jiCu5kKJ8uzzij4lRc1sr82NuSM=
+
+Name: assets/www/lib/ionic/src/android-remove.svg
+SHA1-Digest: hxyOy0d1eF8y+WjoWTsARxKXVvc=
+
+Name: assets/www/lib/ionic/src/arrow-down-c.svg
+SHA1-Digest: PcIuPHI3BDspXnoLlMSwY0TqYdk=
+
+Name: res/xml/config.xml
+SHA1-Digest: dvEA8dRYWba3CE4xpOwswEKQFSg=
+
+Name: assets/www/lib/ionic/src/crop.svg
+SHA1-Digest: aJWJTxUO0F/EUIqDH2x/3n1vX/g=
+
+Name: assets/www/lib/ionic/src/clock.svg
+SHA1-Digest: J3rmIVglt50OjGRqzff3XXCTjdM=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_button_blue_focused.9.pn
+ g
+SHA1-Digest: f6ffxUARnD4OE2WatPT59yDgeJ8=
+
+Name: res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: NKiwT1Cicrvb5S9HSLoNH7C2DQY=
+
+Name: assets/www/lib/ionic/src/ios-paper-outline.svg
+SHA1-Digest: fmlT4+TkT+IRk/O2rC3dmoTpWd4=
+
+Name: assets/www/lib/ionic/src/android-camera.svg
+SHA1-Digest: kXoJrg8Mb43rL0BB0Vk53YvwWa4=
+
+Name: res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: Rt9KnLk1kSGTAdopGWnBCXP+YFc=
+
+Name: assets/www/lib/ionic/src/android-arrow-up.svg
+SHA1-Digest: HivKKl8+l8VHP2E72Z1fplh7yOY=
+
+Name: assets/www/lib/ionic/src/ios-skipbackward-outline.svg
+SHA1-Digest: tb1ts3k9xr4C+YIIiJrBH90J29w=
+
+Name: assets/www/lib/ionic/src/bluetooth.svg
+SHA1-Digest: 7dKK5/Ehzr5xw0e9XpyzGH4agew=
+
+Name: assets/www/lib/ionic/src/image.svg
+SHA1-Digest: mDxMu4swKAc/vtKPXfxwETcB3BI=
+
+Name: assets/www/lib/ionic/src/social-googleplus.svg
+SHA1-Digest: s8no4kfc7fYTPpBqoZKdgPL/bRc=
+
+Name: assets/www/lib/ionic/src/social-javascript-outline.svg
+SHA1-Digest: dVCVD/XRRYEsBRx9DiPP4tx6h3Q=
+
+Name: assets/www/lib/ionic/src/ios-flask-outline.svg
+SHA1-Digest: dLv2CS9XrEacbtctEFcagc76AiQ=
+
+Name: res/drawable/index3.jpg
+SHA1-Digest: ++dy4bndyZiOXON2iO//DMK9DfU=
+
+Name: assets/www/img/company/fdc/longhu.png
+SHA1-Digest: emuPPRkw8qjeuDF3MIL6+3iY/U0=
+
+Name: assets/www/lib/ionic/src/android-checkbox-outline.svg
+SHA1-Digest: WdEz+U0oCNlStJAc2Ou87L8iME0=
+
+Name: res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: U5o9zQarlVcbsy3viac8Q4qZ3SM=
+
+Name: assets/www/lib/ionic/src/social-designernews.svg
+SHA1-Digest: wZ/RwjgP1Q3kOh9bjeCgI7O/eds=
+
+Name: res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.p
+ ng
+SHA1-Digest: 5jIzyLCbK4nMsfUbn0js3s4laq0=
+
+Name: assets/www/lib/ionic/src/fork.svg
+SHA1-Digest: UAwBkeJWKSfD5ejZhtQ8XrZekTg=
+
+Name: assets/www/lib/ionic/src/person-add.svg
+SHA1-Digest: ZFKaFeJUrAc+EFDrsp1iOumg/Wg=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: assets/www/html/msg/view.html
+SHA1-Digest: oagyiGCaXDXPF0mZcRhkpLvadt4=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: 0rxxz4aoR+pwMP7hHOJFsUgiOsw=
+
+Name: assets/www/lib/ionic/src/ribbon-a.svg
+SHA1-Digest: UYtGLQOxaWi+JMPdnMu2c4HGYLA=
+
+Name: assets/www/lib/ionic/scss/_radio.scss
+SHA1-Digest: vvv7NX0gQZIDwes6H9eM9g58ubQ=
+
+Name: assets/www/lib/ionic/src/erlenmeyer-flask.svg
+SHA1-Digest: /6cUthIA7ZlhtU63cACTKaeKiXE=
+
+Name: assets/www/lib/ionic/src/social-linkedin-outline.svg
+SHA1-Digest: FCbDR4xueu26LcJ9zK61aQu2tyI=
+
+Name: assets/www/lib/ionic/js/angular/angular-animate.min.js
+SHA1-Digest: P3N7rjJtURjxMSDZewT6ZvlspSE=
+
+Name: res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: ZTdYXd12MnpbQDCGlZLuOiJXyOk=
+
+Name: res/drawable-hdpi/index3.jpg
+SHA1-Digest: ++dy4bndyZiOXON2iO//DMK9DfU=
+
+Name: assets/www/lib/ionic/src/ios-download.svg
+SHA1-Digest: 4r+OLIkQTD7bF5/+ZggbapFCPDc=
+
+Name: assets/www/lib/ionic/src/social-angular.svg
+SHA1-Digest: o02uC0hC/ZaYJqYBabOWdQhsdcc=
+
+Name: res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: j4YCzt0aE3XiVuR90dIkNXUHnHE=
+
+Name: res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: /U70mPy0nBaDKdR+73ylq/Jpdkg=
+
+Name: res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: MYhK6MDmNSOEu1U8SfgDMqzNtSc=
+
+Name: assets/www/lib/ionic/src/ios-arrow-left.svg
+SHA1-Digest: WMR3T6D0dcV/9MPoPSIb0SM7af8=
+
+Name: assets/www/lib/ionic/src/cube.svg
+SHA1-Digest: /XB/JVRo0xNLo2utiKcNYNysPFA=
+
+Name: assets/www/lib/ionic/src/ios-refresh.svg
+SHA1-Digest: SZsIiNProZiCsdh8NFiBShRzhPY=
+
+Name: assets/www/lib/ionic/src/arrow-up-c.svg
+SHA1-Digest: PBGqKDhVXKh+q7Z/hKgPglBbgwU=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-icons.scss
+SHA1-Digest: fLMX2pBa5OhF859WlwFO+fKflvI=
+
+Name: res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: fJDemyYkG1ADa8kfTcfiXUcM7jY=
+
+Name: res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: rG5iJ8LJqs0d2oExcr38IP+z/7s=
+
+Name: assets/www/lib/ionic/src/android-close.svg
+SHA1-Digest: aFPukqRe+6qu0wpIDFJ6L5QYHCo=
+
+Name: res/drawable-hdpi/index4.jpg
+SHA1-Digest: GKJ4fjXF9ae3B6GOsAxa6PYMdkw=
+
+Name: assets/www/lib/ionic/src/ios-navigate-outline.svg
+SHA1-Digest: jjVLR2le1uyFQSJtdqNl9O4ezuY=
+
+Name: assets/www/lib/ionic/src/social-yen-outline.svg
+SHA1-Digest: fHnCYFQS5Qn0x7KPC1OFLEg/WvY=
+
+Name: res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 3PaqrIbYXWJg4tMXULVMzvNu3Qo=
+
+Name: assets/www/lib/ionic/src/ios-wineglass-outline.svg
+SHA1-Digest: +7UPv9D/mVjxwFnUXwOgQtPyTXE=
+
+Name: com/sina/weibo/sdk/net/cacert.cer
+SHA1-Digest: qeKN6q10QU4T2Ny6QZ+y0GOoLMs=
+
+Name: assets/www/lib/ionic/src/ios-paperplane-outline.svg
+SHA1-Digest: RrOfc1auEySRWsFZuIXSME1Rp24=
+
+Name: assets/www/lib/ionic/src/heart-broken.svg
+SHA1-Digest: BlHJ/8mpyin4uBrBZJx3Hwk4hOM=
+
+Name: assets/www/lib/ionic/src/paintbrush.svg
+SHA1-Digest: 64b/VHaEzIznepj10xxDxeuzhVY=
+
+Name: assets/www/lib/ionic/src/archive.svg
+SHA1-Digest: O5pNHQv5CGxEzZQrdAdIslEZCUU=
+
+Name: assets/www/lib/ionic/src/beaker.svg
+SHA1-Digest: u44Fc3bFVllCFGesQABWJNllCEA=
+
+Name: assets/www/lib/ionic/src/ios-mic-outline.svg
+SHA1-Digest: 1p0MrXpPfoM7qQQ0JIH0taZV+FY=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_logo.png
+SHA1-Digest: IPGYPWuA79jRRJBsncidFUuZKtA=
+
+Name: assets/www/img/company/it/taobao.png
+SHA1-Digest: WKP3j1ts6N4bHdaew+w+zpJ07wg=
+
+Name: assets/www/lib/ionic/src/battery-half.svg
+SHA1-Digest: RXx76nK+Lo7e3t9QjBQ2nYyX+HA=
+
+Name: assets/www/lib/ionic/src/chevron-right.svg
+SHA1-Digest: Y8RUa0lLRgNFrL/F57mGK7QxV2U=
+
+Name: assets/www/lib/ionic/src/ios-browsers.svg
+SHA1-Digest: GGe2MKyb/CWq/PJ8GMinKj+3oO4=
+
+Name: assets/www/lib/ionic/scss/_popup.scss
+SHA1-Digest: fj6RHzPWIdID11Qe202+J8YiECc=
+
+Name: assets/www/lib/ionic/src/quote.svg
+SHA1-Digest: 8ZWCphhQEbp1v/n7iQ5BPiBkcGk=
+
+Name: assets/www/lib/ionic/src/ios-color-filter.svg
+SHA1-Digest: OwTv/u9WcQ2MdcS6C4Qbt/8MQ3g=
+
+Name: assets/www/lib/ionic/src/ios-time-outline.svg
+SHA1-Digest: vKXkQi6bX/Y2M7KXBihZQ6eJ7k8=
+
+Name: assets/www/lib/ionic/src/wrench.svg
+SHA1-Digest: kUDSxUyAFiVFTVfEk3wYFsxHRxo=
+
+Name: res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 2SSuJk3m1pafpmf81TSs7M6iuf0=
+
+Name: assets/www/lib/ionic/src/ios-undo.svg
+SHA1-Digest: vrJz5mslYbG6dPP86d5UpbpuNw0=
+
+Name: assets/www/lib/ionic/src/android-chat.svg
+SHA1-Digest: j2NsvzmrROwzmeW0x00l/WEDK6E=
+
+Name: assets/www/lib/ionic/src/ios-chatboxes-outline.svg
+SHA1-Digest: E5S69RN/Tc6hjRmv+WEfudOFknk=
+
+Name: assets/www/lib/ionic/src/bonfire.svg
+SHA1-Digest: Gv/a05PxKISodeje68ITAaHvdew=
+
+Name: assets/www/lib/ionic/src/ios-fastforward.svg
+SHA1-Digest: 2zIbeZpi31TZ5jTQmo4m7CGlINk=
+
+Name: assets/www/lib/ionic/src/social-angular-outline.svg
+SHA1-Digest: WvRMuI+Mk5TufZ/vvQPgWlrIsrU=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ pressed.png
+SHA1-Digest: VlJ0vhw5TwZ+lS7K8oSeiS21wWE=
+
+Name: assets/www/lib/ionic/src/card.svg
+SHA1-Digest: CckLc/qnQkdnkLP+Asp4xvbk42A=
+
+Name: res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: E74c3aj78MFnidZIhyjcbYdMtVs=
+
+Name: assets/www/lib/ionic/src/laptop.svg
+SHA1-Digest: Q9XE5KfnPNL76xTm8hmF46fM8a0=
+
+Name: assets/www/lib/ionic/src/playstation.svg
+SHA1-Digest: JknIygEzK1Md+bkcWs1cWBAKGaU=
+
+Name: assets/www/lib/ionic/src/ios-bell.svg
+SHA1-Digest: lVQvtj0+h2JC+EqBzXpvDveKgvQ=
+
+Name: assets/www/lib/ionic/src/ios-checkmark-outline.svg
+SHA1-Digest: N1opeiEKd99dnLvNqepavvfuDO8=
+
+Name: assets/www/lib/ionic/src/podium.svg
+SHA1-Digest: MnVXI0JVF9AkunigkN6ew8UiWAU=
+
+Name: assets/www/lib/ionic/src/android-bar.svg
+SHA1-Digest: VxldHqsxdRfd+geqSh5xZAvOp+w=
+
+Name: assets/www/lib/ionic/src/social-bitcoin.svg
+SHA1-Digest: sqdnqb0CjQ777p2LcBIBG+Dm51s=
+
+Name: assets/www/lib/ionic/src/videocamera.svg
+SHA1-Digest: cjgPKe9ziMo6sGa9DhUuCiW0dr4=
+
+Name: assets/www/lib/ionic/src/ios-arrow-thin-left.svg
+SHA1-Digest: YdPpZ9sGbY0L96hrqMnXzmhnDIM=
+
+Name: assets/www/html/msg/info.html
+SHA1-Digest: Nf7UfOFaZqLkfhp7wFcLNXAtcUg=
+
+Name: assets/www/lib/ionic/src/android-folder-open.svg
+SHA1-Digest: +tLwzN4IHvn60figbObhHfigHMA=
+
+Name: assets/www/lib/ionic/src/ios-recording.svg
+SHA1-Digest: xulw61oFAfPoll7B44dYAOUOjpY=
+
+Name: assets/www/lib/ionic/src/wand.svg
+SHA1-Digest: xn6viZnUAzdJMC5Jl2LQDwJBIsU=
+
+Name: assets/www/lib/ionic/src/load-d.svg
+SHA1-Digest: Qi7GRwmw91evLd3e6aWGoqoVVns=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: WvQXaLW+RYwVqlOlLTLQnw4LYsw=
+
+Name: assets/www/lib/ionic/src/ios-skipforward-outline.svg
+SHA1-Digest: VHMR6j0OZGOkNSM70Aclx6ZMwtc=
+
+Name: res/drawable-xxhdpi/ic_com_sina_weibo_sdk_login_with_account_tex
+ t_pressed.png
+SHA1-Digest: pElEn8RJvHi25DT5nbsYpCdfddY=
+
+Name: res/drawable-mdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: gC4d718bUfJ0uPY6WYeF5zVCAv4=
+
+Name: assets/www/lib/ionic/src/ios-book-outline.svg
+SHA1-Digest: s9TCRXNklyeZ/e2YqkDzx6in8jI=
+
+Name: assets/www/lib/ionic/src/soup-can.svg
+SHA1-Digest: ibsWdtn32LbFEw8An7U9qv84kcY=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ focused.png
+SHA1-Digest: cHH0umo04BCKXZucugN/5i4Q31s=
+
+Name: assets/www/lib/ionic/src/ipod.svg
+SHA1-Digest: /teLNxvnKX6BA6/VMZl3iri5QMo=
+
+Name: assets/www/img/company/it/xiaomi.png
+SHA1-Digest: kkhpoY5eEOaM8HGOZQNbqgjxXkQ=
+
+Name: assets/www/lib/ionic/fonts/ionicons.svg
+SHA1-Digest: Pxyij8sELSvMbuak492BflEy7uo=
+
+Name: assets/www/lib/ionic/src/android-phone-landscape.svg
+SHA1-Digest: fXO/D+r6e8Sj+hcLr2bNQYYU5NA=
+
+Name: assets/drawable-ldpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: K/kUN8WUKzwZfXiS+GGgFcVb/ok=
+
+Name: assets/www/lib/ionic/src/ios-people.svg
+SHA1-Digest: /UQo9u3PKClfwPb2R/phk03a9+8=
+
+Name: res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 5WylCUHX7te3JTTAHdAbznwUoGM=
+
+Name: assets/www/lib/ionic/src/thumbsdown.svg
+SHA1-Digest: O4WasR89x2x80MOBhEzY+WeYQr0=
+
+Name: assets/www/lib/ionic/src/ios-videocam.svg
+SHA1-Digest: s4/2kCHSSiSUbHUwZtSYuISADeE=
+
+Name: assets/www/lib/ionic/src/unlocked.svg
+SHA1-Digest: 4V7ba4z8BbdDpD3+yJe13hFQlU4=
+
+Name: res/drawable/com_sina_weibo_sdk_login_button_with_original_logo.
+ xml
+SHA1-Digest: EZ+9JP7Y29Ylscv+LvHc360WO48=
+
+Name: assets/www/lib/ionic/src/egg.svg
+SHA1-Digest: tP1xABdI+5SQler+iMF09syc3hw=
+
+Name: assets/www/lib/ionic/src/ios-close.svg
+SHA1-Digest: THppjIMS7A0Ky0ogGlGoKrs45Ac=
+
+Name: assets/www/lib/ionic/src/ios-redo.svg
+SHA1-Digest: ckhLecieoc1gZATacP54gVEiGk4=
+
+Name: assets/www/lib/ionic/src/ios-flower-outline.svg
+SHA1-Digest: sd4JOZu1xnozZPBAeAG1DQPy9jo=
+
+Name: assets/www/lib/ionic/src/social-vimeo-outline.svg
+SHA1-Digest: a21Cnmt/SvSNK0SS7WQ7AoHmhE4=
+
+Name: assets/www/lib/ionic/src/arrow-resize.svg
+SHA1-Digest: hwy0OZ2baN02Wel4i5ajDCzithI=
+
+Name: res/drawable-mdpi/index1.jpg
+SHA1-Digest: buZ9m1Tiir5rZqup7uK9lCytKMU=
+
+Name: assets/www/lib/ionic/scss/_loading.scss
+SHA1-Digest: yjH2Hn63DKF/yWO06j24+dnZPL0=
+
+Name: assets/www/lib/ionic/src/ios-contact-outline.svg
+SHA1-Digest: FiM0LZbmZ+QnjxtzuUxxss10AnI=
+
+Name: assets/www/lib/ionic/src/ios-paper.svg
+SHA1-Digest: d6e9aTufjF15sUgUPvWHI6sp2AI=
+
+Name: assets/www/lib/ionic/src/social-twitch.svg
+SHA1-Digest: Zb4MNmNhfITyPQgzmy/FQZVpiOs=
+
+Name: assets/www/lib/ionic/src/android-clipboard.svg
+SHA1-Digest: zAQvTNQZPUUfMyjvbFIcSN/Fins=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: rZk5XR6Z+9M1q+OMjFTuUAUSLRI=
+
+Name: res/drawable/index2.jpg
+SHA1-Digest: v/oNv9iwuZL/snAxBv4WcXzf4Do=
+
+Name: assets/www/lib/ionic/src/transgender.svg
+SHA1-Digest: /YBWhc3KqXEWfzbnQk2NEd01S8g=
+
+Name: assets/www/lib/ionic/src/ios-cog-outline.svg
+SHA1-Digest: 6BGn5RzH1ugoF2AEhSvk/tES7VI=
+
+Name: assets/www/lib/ionic/src/android-notifications-off.svg
+SHA1-Digest: ryjLoZRU4QkNGCHj0gPSwESVTZs=
+
+Name: res/drawable-xxhdpi/ic_com_sina_weibo_sdk_login_with_account_tex
+ t_normal.png
+SHA1-Digest: uaDrmDTk2iv0m+6bUgA+pSRSFZs=
+
+Name: assets/www/js/cfg.js
+SHA1-Digest: c0vqql19DpA5IH4JqxrR5za6gng=
+
+Name: res/drawable-ldpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ pressed.png
+SHA1-Digest: JbrMpqYT3vyBMpYU4vXa7pE1iiM=
+
+Name: assets/www/lib/ionic/js/angular/angular-sanitize.min.js
+SHA1-Digest: suOY5K9yGSd5QzWwoM9JRLo5Wy0=
+
+Name: assets/www/lib/ionic/src/chatbox.svg
+SHA1-Digest: nmnT3qHPdjW4Z9gfAVvxrDVNrvs=
+
+Name: res/drawable/index1.jpg
+SHA1-Digest: buZ9m1Tiir5rZqup7uK9lCytKMU=
+
+Name: assets/www/lib/ionic/src/email-unread.svg
+SHA1-Digest: gg9jhzm488dks1K5AFwRu/nYXWk=
+
+Name: res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: KJS1Jy2tQBvRRzA2VLecoWKcXPI=
+
+Name: assets/www/lib/ionic/js/ionic.js
+SHA1-Digest: 04AKzHDZTjukFMkEbtLXkO0Hkiw=
+
+Name: assets/www/lib/ionic/src/ios-locked.svg
+SHA1-Digest: xNAmZit7w8QWQdGELTm3WDJu5FM=
+
+Name: assets/www/lib/ionic/src/social-foursquare-outline.svg
+SHA1-Digest: uey4q9BbsmRctvWxdiklAnnbe+A=
+
+Name: res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.
+ png
+SHA1-Digest: 9Bp06Ap9fcbQu+RHXBIuIyuc1VM=
+
+Name: assets/www/lib/ionic/src/arrow-down-a.svg
+SHA1-Digest: m+/2qo90RcTbG2MbB8+kyO/vEIw=
+
+Name: assets/www/lib/ionic/src/social-foursquare.svg
+SHA1-Digest: FU7vyx8e2QCJe1H/eDM8SrdewP0=
+
+Name: assets/www/index.html
+SHA1-Digest: BRbnjwiXe1KLi6DQwRAjJKqDyyQ=
+
+Name: assets/www/lib/ionic/scss/_action-sheet.scss
+SHA1-Digest: aTK8W5LMclihonH8rSadUfAaYj0=
+
+Name: assets/www/lib/ionic/src/android-volume-off.svg
+SHA1-Digest: 6zMshMlMI8uS1ehcn2kbWwjD5HQ=
+
+Name: res/drawable-hdpi/index.png
+SHA1-Digest: bKY/BsOpBJeDGbCbb5M/j57KY70=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: assets/www/lib/ionic/src/android-navigate.svg
+SHA1-Digest: urric+EAEBEQ63qfvovHjCmWhuM=
+
+Name: assets/www/lib/ionic/src/android-watch.svg
+SHA1-Digest: edIOFZWgNMnrlpJtNIIZTcJDVAM=
+
+Name: res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: gT4sGIbOhJJBbv6h5B4mckwkWEQ=
+
+Name: res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: tOuiTf7qLHudHHS2BEMDpwatMcs=
+
+Name: assets/www/img/avatar.png
+SHA1-Digest: wBJBeW+ijOSU5I1Qf9eKWljqnbQ=
+
+Name: assets/www/lib/ionic/src/gear-b.svg
+SHA1-Digest: Z/1ZhQS1V5hrHCAWgrdALrQzksc=
+
+Name: assets/www/lib/ionic/src/ios-world.svg
+SHA1-Digest: xk6vyK+GQi+QTz+6DwcRslgqtN0=
+
+Name: assets/www/lib/ionic/src/paintbucket.svg
+SHA1-Digest: CTloVGBGYAmtbCEYN0xA73qSZUE=
+
+Name: assets/www/img/company/it/vipshop.png
+SHA1-Digest: aLR0TqYTq2bRDOBWg6oZUX8kndg=
+
+Name: res/drawable-xhdpi/abc_list_focused_holo.9.png
+SHA1-Digest: YizJ6E9i4qjStCvPOCfhrYribWs=
+
+Name: assets/www/lib/ionic/src/ios-at.svg
+SHA1-Digest: ZGPvW5yh+otHaBx3+EbC7Z9wWiA=
+
+Name: assets/www/lib/ionic/src/android-hangout.svg
+SHA1-Digest: 83BcMJvG605Hl7gn3QAnko3es/I=
+
+Name: assets/www/lib/ionic/src/ios-americanfootball.svg
+SHA1-Digest: uc10C8jQrNis0fSybSFr2vfyfkc=
+
+Name: assets/www/lib/ionic/src/ios-gear-outline.svg
+SHA1-Digest: kXFKPH6gBrDMDczGn1ujl3Cai2Q=
+
+Name: assets/www/img/icomoon.ttf
+SHA1-Digest: 5fKOGeUv+7TcVUbpzYKeDU8nD+Q=
+
+Name: assets/www/html/job/list.html
+SHA1-Digest: TCFUy8RYmchtoIB/TiByqoC9/ZI=
+
+Name: assets/www/lib/ionic/src/android-upload.svg
+SHA1-Digest: NMlBOsdVKaG1GdBosgk8yXdGQJc=
+
+Name: res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: h591GjAtEZ+scBz50reA/1QaVeU=
+
+Name: assets/www/lib/ionic/src/flag.svg
+SHA1-Digest: Z5cnZwAPtgjO57Ojmfgr8hjztNI=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: GoNaOA7lnmzaG0qoGwc+2pFImoM=
+
+Name: res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: DdbxkH04CKw8kZDBH8buX43Cz3A=
+
+Name: assets/www/img/company/it/youku.png
+SHA1-Digest: uUZ8F5nbXJHhDYU5SgGuUcn6DQE=
+
+Name: res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: Pz5rsvZTd9eVNnjcXVU39QzrqM8=
+
+Name: assets/www/lib/ionic/src/android-notifications-none.svg
+SHA1-Digest: HUKfuqVlMT6AIQsL13h8HxDcwgY=
+
+Name: assets/www/lib/ionic/src/social-skype.svg
+SHA1-Digest: 7VF8KzxT87tYq7RVXrM44PAa1C8=
+
+Name: assets/www/img/company/it/360.png
+SHA1-Digest: cDtD31xHJMGXyheWFmFIx9++DyE=
+
+Name: res/drawable-mdpi/ic_com_sina_weibo_sdk_button_grey_focused.9.pn
+ g
+SHA1-Digest: oegkN07TNc6Ko8z3qqCgUGgnvRw=
+
+Name: res/drawable-xhdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: mnKcBxCAwD79+LDCs2GZ5ihR4dA=
+
+Name: assets/www/lib/ionic/src/gear-a.svg
+SHA1-Digest: TwXiu1qHN9O+nC/b8mJekDQT480=
+
+Name: assets/www/html/reg/1.html
+SHA1-Digest: Rpd4xUztZkkcGikCGxcW6M6MZhg=
+
+Name: res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: aLOtkEElPKVQnb/x08i/wBkFiH8=
+
+Name: assets/www/img/company/fdc/baoli.png
+SHA1-Digest: 0P9x6VhETYl0YV3oTruTbywE23A=
+
+Name: assets/www/lib/ionic/src/chatbox-working.svg
+SHA1-Digest: MN3RQCtqYJqHLlubG2dG84Yv4sI=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/Camera.js
+SHA1-Digest: juDEUVB/OH5muqCaqJShmjf9NnA=
+
+Name: res/drawable-mdpi/button_wx.png
+SHA1-Digest: v5AhbDvxt55eQwSVUxW3h95UKrc=
+
+Name: assets/www/lib/ionic/src/arrow-right-a.svg
+SHA1-Digest: oIWJ9YAvFP3PMAgrypunbFjsQz4=
+
+Name: res/drawable-xhdpi/ic_com_sina_weibo_sdk_login_button_with_frame
+ _logo_focused.png
+SHA1-Digest: yM8BZY4cNoK8D6kPgMs7EyRjG+4=
+
+Name: assets/www/lib/ionic/src/spoon.svg
+SHA1-Digest: XI2ctsNTqiNdoW3Sj/vcjRMvB7c=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_login_with_account_text_
+ focused.png
+SHA1-Digest: K3UHMp5kuO2vqUFBN2+bLD1asVA=
+
+Name: res/drawable-hdpi/button_linkedin.png
+SHA1-Digest: GjqWiEkI0W1UtGdS6n+C/d/AlRI=
+
+Name: assets/www/lib/ionic/scss/_select.scss
+SHA1-Digest: dtZWfdMwdlqDGnwaar4G4jiXTJU=
+
+Name: assets/www/lib/ionic/src/android-open.svg
+SHA1-Digest: TOS4GLvN5WRTBYU5wCMaOWu1aPQ=
+
+Name: assets/www/lib/ionic/src/ios-arrow-thin-right.svg
+SHA1-Digest: B67tMZLf5Lt2u2PHAhRAFjcBQwA=
+
+Name: assets/www/lib/ionic/src/android-microphone.svg
+SHA1-Digest: oAYThjUzkdo+YgBqQMX5AYVGpyA=
+
+Name: assets/www/lib/ionic/src/model-s.svg
+SHA1-Digest: ASIvHGsbWD5EWGtp2tMJceYMRq4=
+
+Name: assets/www/lib/ionic/src/stats-bars.svg
+SHA1-Digest: EGolk2gndVMXV6QRwwA04niJZug=
+
+Name: res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 4YsKb2IwvWnlnKLr79msGTpIdXg=
+
+Name: assets/www/lib/ionic/src/ios-recording-outline.svg
+SHA1-Digest: PCI2ippVS8D2xxmVIXGIEQcb3Jo=
+
+Name: res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ow8W3FSivgngX0YsN0ypeN/nnxU=
+
+Name: assets/www/lib/ionic/src/ipad.svg
+SHA1-Digest: Z0LAweULDaWUwiAPunFcyj9RZUY=
+
+Name: res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: nlv7gu1+VF4aLhbdcOHRgDMzvCs=
+
+Name: res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: /c5bL7iVveqlG+34t96HN1xBRuc=
+
+Name: assets/www/lib/ionic/src/android-restaurant.svg
+SHA1-Digest: J+4M3JZRCpklH2KjtwuqGeeDrIU=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_button_blue_pressed.9.pn
+ g
+SHA1-Digest: s11gcQnxG2CBh+07EhR73hIWugc=
+
+Name: assets/www/lib/ionic/src/android-cart.svg
+SHA1-Digest: GuM4nlH/DuVgQzTDuGu4AUlpvp0=
+
+Name: assets/www/lib/ionic/src/pie-graph.svg
+SHA1-Digest: lgdDFFdtS0k5odcofkn/VPbfaXU=
+
+Name: assets/www/lib/ionic/scss/_animations.scss
+SHA1-Digest: Ggzr4JN7HshYt/RZ8Jy9t1AW7Yc=
+
+Name: res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: pf9NIIotZsMzZhGmwThV2jglFL8=
+
+Name: assets/www/css/style.css
+SHA1-Digest: dVYB1ZaZUrMCJdonkWdfNrAsJQs=
+
+Name: assets/www/lib/ionic/src/ios-camera.svg
+SHA1-Digest: cDBM3SH9PidUYZfLQ02vzH+TATE=
+
+Name: assets/www/lib/ionic/src/ios-minus-empty.svg
+SHA1-Digest: SGzNLOOo6/IZ+LHAw53Oxykc/Xg=
+
+Name: assets/www/lib/ionic/src/levels.svg
+SHA1-Digest: G68TuD+7W+ABWYV71KNqQss5mqY=
+
+Name: assets/www/lib/ionic/src/ios-paw.svg
+SHA1-Digest: EFOFqj2atFX3nq3gMAEjyzenPRo=
+
+Name: assets/www/lib/ionic/scss/_popover.scss
+SHA1-Digest: DXBvyUJFDYnp3MpkwM52MsTJHNA=
+
+Name: assets/www/lib/ionic/src/ios-pricetags.svg
+SHA1-Digest: liZWVWRT5sWzit1NKkgzextDJ5c=
+
+Name: assets/www/lib/ionic/src/social-reddit.svg
+SHA1-Digest: TirRoWmuAt9h0iAl2agfhwKTHZ8=
+
+Name: res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.pn
+ g
+SHA1-Digest: k5Wuo6d5HVItqi+rHGYRLTHndeg=
+
+Name: assets/www/lib/ionic/src/social-chrome-outline.svg
+SHA1-Digest: JFE2bnvv9Uk8YftpJ4JwGz46rAo=
+
+Name: assets/www/lib/ionic/src/ios-reverse-camera.svg
+SHA1-Digest: oaYIuJ+FpOyXp2JwSCQslDF64IA=
+
+Name: assets/www/lib/ionic/src/social-yahoo-outline.svg
+SHA1-Digest: gyd8H7LwK2F0U3z0NJ+B23wPMv4=
+
+Name: assets/www/lib/ionic/js/angular/angular-animate.js
+SHA1-Digest: v1c2EgBsO8m8ghYkDHDRlP5s5KQ=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: VWdk3UfRUO49+cjAPV7d8zdWLME=
+
+Name: assets/www/lib/ionic/src/android-exit.svg
+SHA1-Digest: cNppUz3vunXwpiWfYfOF9cybPU8=
+
+Name: assets/www/lib/ionic/src/film-marker.svg
+SHA1-Digest: 0Qy3KOblpfCBUb7o06aOR+ZzMV4=
+
+Name: assets/www/img/background/city.jpg
+SHA1-Digest: Zwt8RIh7VMi6lG9KpywdCTbC5jU=
+
+Name: assets/www/lib/ionic/src/ios-calendar-outline.svg
+SHA1-Digest: d5U0mi7BCCbX74kuxdSbeaN0wEY=
+
+Name: assets/www/lib/ionic/src/android-alert.svg
+SHA1-Digest: /Ewhg/PgjGAA4U8fjnUklXfxPk8=
+
+Name: assets/www/lib/ionic/src/drag.svg
+SHA1-Digest: oz46USyOOSQnf95hc1hp/KLkv3k=
+
+Name: assets/www/lib/ionic/src/ios-cloud-upload-outline.svg
+SHA1-Digest: 8k1gT+HYnBwLBgd+9T8kmYxz7yQ=
+
+Name: assets/www/lib/ionic/src/ios-minus.svg
+SHA1-Digest: NoKjTxADOWgXBTLPgtT3yRnuep0=
+
+Name: res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.pn
+ g
+SHA1-Digest: jhKsCs5XDpgdVoUOiVXzyg5Oqi4=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: NAbo2KkKZocGTA1g1E9fq2wc/HM=
+
+Name: res/drawable-hdpi/ic_com_sina_weibo_sdk_button_grey_normal.9.png
+SHA1-Digest: BvNuj0JM4dW1M5X/qZOU04aa9aQ=
+
+Name: assets/www/lib/ionic/src/android-search.svg
+SHA1-Digest: HVSk3L2Miq+07oPXF2BNRy5cyFg=
+
+Name: res/layout/auth_bg_4.xml
+SHA1-Digest: BizzmYioi3NVYyiG0nOezG7bli8=
+
+Name: assets/www/lib/ionic/src/ios-cloud-download-outline.svg
+SHA1-Digest: YOtP+zmUnWQETg6bqE0Yqv7yO4w=
+
+Name: assets/www/lib/ionic/src/ios-bookmarks.svg
+SHA1-Digest: xY8Ep24SyHa0fVlBO73kvAjJmfI=
+
+Name: assets/www/lib/ionic/src/ios-rose-outline.svg
+SHA1-Digest: IsfgZUOSAAzhfvZkCMomjQHxqCQ=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: assets/www/lib/ionic/src/ios-color-wand-outline.svg
+SHA1-Digest: yrbUarDF4fy5eztPpqnKt/Ivw5w=
+
+Name: assets/www/lib/ionic/src/social-youtube.svg
+SHA1-Digest: FJAPY775nUhWZYGRSF/BDQL+71g=
+
+Name: assets/www/lib/ionic/src/ios-undo-outline.svg
+SHA1-Digest: 6amCydM4PJm8wdKrMgCaH5gRBDs=
+
+Name: assets/www/lib/ionic/src/woman.svg
+SHA1-Digest: 7FnsGoz1AjT4dsgs6TLhs8BLUGI=
+
+Name: res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA1-Digest: MaQMEL+co4iRGmeEstCxWXDH7Uk=
+
+Name: assets/www/lib/ionic/src/arrow-down-b.svg
+SHA1-Digest: qCTE3O+XbU2WOD2XYJCclriAFqk=
+
+Name: assets/www/lib/ionic/src/ios-body.svg
+SHA1-Digest: pFp94ouvEZepP9Y1omDy/h69Ta0=
+
+Name: assets/www/lib/ionic/src/ios-telephone.svg
+SHA1-Digest: zQ6fpbecirMqtOLjutOB2dd5rhQ=
+
+Name: assets/www/lib/ionic/src/qr-scanner.svg
+SHA1-Digest: D7eggm4Vnpbbv98KgqU+cPkDgYA=
+
+Name: assets/www/lib/ionic/src/filing.svg
+SHA1-Digest: 7QlaqFw2FBTEFmzpwmwJ12rhFJI=
+
+Name: res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: b3mKh17uuGV42YUbqeGzRgmDaYI=
+
+Name: assets/www/lib/ionic/src/play.svg
+SHA1-Digest: GmqTti7/UqqYM5bLBvR5bXvFILo=
+
+Name: assets/www/lib/ionic/src/volume-medium.svg
+SHA1-Digest: m1pF2yMWv3kywvYF97gVAq8/CCs=
+
+Name: res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: EAjZ0rT5UwkBjIjqwn2HEVES96k=
+
+Name: assets/www/lib/ionic/src/document.svg
+SHA1-Digest: wfnBpl4VwzXSaXGivwkyZwXcSvI=
+
+Name: res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: Q5eLCqGnqEAv/W9tfyLM7M6nU9E=
+
+Name: assets/www/lib/ionic/src/ios-calendar.svg
+SHA1-Digest: i5RnCxRdeKc0Ij7b5N+iBNhSSso=
+
+Name: res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: +eLoSt8uctg1cY5up3uNj7FsoEI=
+
+Name: assets/www/lib/ionic/src/android-star-half.svg
+SHA1-Digest: nt9lqlpEyOruf+T6T3E2f15Wqng=
+
+Name: assets/www/lib/ionic/src/ios-book.svg
+SHA1-Digest: faaSNOBtVNhNcE4Sgcj35x7RVVE=
+
+Name: assets/www/lib/ionic/src/android-star.svg
+SHA1-Digest: I3wyqTAAetcs+cJyI4ep4zGZkss=
+
+Name: assets/www/lib/ionic/src/chevron-left.svg
+SHA1-Digest: Mm0sXZk13GNpOghqGOWh1swCNA4=
+
+Name: assets/www/lib/ionic/src/ios-person-outline.svg
+SHA1-Digest: XqodGLd+DcGwMnLnq8pMIPks7rE=
+
+Name: assets/www/lib/ionic/src/ios-crop-strong.svg
+SHA1-Digest: sz3OQB8y90S8fpruN0KVNXI6vwg=
+
+Name: assets/www/lib/ionic/scss/_reset.scss
+SHA1-Digest: uOrJqoABp3ks6MQbRicZb7mRdBY=
+
+Name: assets/www/lib/ionic/src/android-train.svg
+SHA1-Digest: IvVK5oTZLgn2c6jkDUFwbHMLcmA=
+
+Name: assets/www/lib/ionic/src/flash-off.svg
+SHA1-Digest: glVkiTutO9xMWFzM5pVuh6mqMa4=
+
+Name: assets/www/img/like.png
+SHA1-Digest: kKmBtips3Jt+oyygC8i9gUO2Lho=
+
+Name: assets/www/lib/ionic/src/ios-arrow-forward.svg
+SHA1-Digest: wzXLaD9/ddOp61Gt1NZ6Yo8TVbs=
+
+Name: res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: cKGQg8jgT0IkOi1RPo5Y+TSnQb4=
+
+Name: assets/www/lib/ionic/src/arrow-up-a.svg
+SHA1-Digest: sVKSlm0kO30WVmiIpUAGnfkqPO0=
+
+Name: assets/www/js/ionic.contrib.frostedGlass.js
+SHA1-Digest: SQaODQS5gHv3MVsyp41+a/EQMWQ=
+
+Name: assets/www/lib/ionic/src/android-bulb.svg
+SHA1-Digest: qsKA9etJw9yAZxRhykkI7QHb0FM=
+
+Name: res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: xeutaZvABw40/AIzFqNqXOs2vyw=
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: TLz0shtwfe+lkIdH+pFYAuOhfeM=
+
+Name: assets/www/lib/ionic/src/ios-refresh-empty.svg
+SHA1-Digest: 6ec9s9CNL8AG9XKFcYpvE3xzlrE=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/ProgressEvent.js
+SHA1-Digest: rnNeXgEfu1DcDHUqC0qh+JWzBVc=
+
